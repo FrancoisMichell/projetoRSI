@@ -3,6 +3,9 @@ from scapy.all import *
 import datetime,time
 import fcntl, socket, struct
 import requests
+import json
+
+
 
 class Pacote:
 
@@ -36,17 +39,25 @@ def getHwAddr(ifname):
     return ':'.join(['%02x' % ord(																																																																																																																																																																		char) for char in info[18:24]])
 
 def sendData(lista):
-	data = {}
+
+	for i in lista:
+		print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
+		r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
+		print(r.status_code, r.reason)
+		print(r.text[:600] + '...')
+		print ""
+
+'''
+def sendData(lista):
+	macs = {}
 	for i in range(len(lista)):
-		#print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
-		data [i] = {'mac': str(lista[i].getMac()), 'timestamp': str(lista[i].getHorario()), 'forcaSinal': str(lista[i].getForcaSinal())}
-		#r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
-		#print(r.status_code, r.reason)
-		#print(r.text[:300] + '...')
-		#print ""
-	print data
-	r = requests.post("http://rsi2016.orgfree.com/", data)
-	print(r.text[:300] + '...')
+		macs [i] = {'mac': str(lista[i].getMac()), 'timestamp': str(lista[i].getHorario()), 'forcaSinal': str(lista[i].getForcaSinal())}
+
+	print macs
+	url = "http://rsi2016.orgfree.com/"
+	r = requests.post( url , data=json.dumps(macs))
+	print(r.text[:600] + '...')
+'''
 
 def PacketHandler(pkt):
 	global captured
@@ -68,7 +79,7 @@ def PacketHandler(pkt):
 				captured.append(pacote)
 				capturedMac.append(pkt.addr2)
 			elapsed = end - start
-			if (elapsed <= 60.0):																																																																																																																																																																																																																																																																																																																																																														
+			if (elapsed <= 30.0):																																																																																																																																																																																																																																																																																																																																																														
 				#print elapsed
 				end = time.time()
 			else:
