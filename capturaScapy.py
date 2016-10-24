@@ -4,8 +4,9 @@ import datetime,time
 import fcntl, socket, struct
 import requests
 import json
-
-
+import urllib2
+import subprocess
+import time
 
 class Pacote:
 
@@ -33,6 +34,14 @@ class Pacote:
 		return self.forcaSinal
 
 
+def internet_on():
+    sts = False
+    try:
+	response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
+	sts = True
+    except urllib2.URLError as err: pass
+    return sts
+
 def getHwAddr(ifname):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     info = fcntl.ioctl(s.fileno(), 0x8927,  struct.pack('256s', ifname[:15]))
@@ -42,10 +51,20 @@ def sendData(lista):
 
 	for i in lista:
 		print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
-		r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
-		print(r.status_code, r.reason)
-		print(r.text[:600] + '...')
-		print ""
+		if not internet_on():
+			f = open("unsent.txt", "a")
+			aux = "%s/%s/%s\n" % (str(i.getMac()), str(i.getHorario()), str(i.getForcaSinal()))
+			f.write(aux)
+			f.close()
+
+			subprocess.call(["sudo", "/sbin/ifdown", "wlan0"])
+			time.sleep(5)
+			subprocess.call(["sudo", "/sbin/ifup", "--force", "wlan0"])
+		else:
+			r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
+			print(r.status_code, r.reason)
+			print(r.text[:600] + '...')
+			print ""
 
 '''
 def sendData(lista):
@@ -79,7 +98,7 @@ def PacketHandler(pkt):
 				captured.append(pacote)
 				capturedMac.append(pkt.addr2)
 			elapsed = end - start
-			if (elapsed <= 30.0):																																																																																																																																																																																																																																																																																																																																																														
+			if (elapsed <= 300.0):																																																																																																																																																																																																																																																																																																																																																														
 				#print elapsed
 				end = time.time()
 			else:
@@ -98,7 +117,7 @@ def PacketHandler(pkt):
 			value = datetime.datetime.fromtimestamp(pkt.time)
 			#print("Timestamp: " + value.strftime('%d-%m-%Y %H:%M:%S'))	
 
-localMac = getHwAddr('wlp2s0')
+localMac = getHwAddr('wlan0')
 
 #Time of begginning capture
 start = time.time()
