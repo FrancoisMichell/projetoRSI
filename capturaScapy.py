@@ -4,6 +4,7 @@ import datetime,time
 import fcntl, socket, struct
 import requests
 import json
+import gc
 import urllib2
 import subprocess
 import time
@@ -33,54 +34,40 @@ class Pacote:
 	def getForcaSinal(self):
 		return self.forcaSinal
 
-
 def internet_on():
     sts = False
     try:
-	response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
-	sts = True
+        response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
+        sts = True
     except urllib2.URLError as err: pass
     return sts
 
 def getHwAddr(ifname):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     info = fcntl.ioctl(s.fileno(), 0x8927,  struct.pack('256s', ifname[:15]))
-    return ':'.join(['%02x' % ord(																																																																																																																																																																		char) for char in info[18:24]])
+    return ':'.join(['%02x' % ord(char) for char in info[18:24]])
 
 def sendData(lista):
-
 	for i in lista:
 		print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
 		if not internet_on():
 			f = open("unsent.txt", "a")
+			print "SALVANDO NO ARQUIVO %s/%s/%s\n" % (str(i.getMac()), str(i.getHorario()), str(i.getForcaSinal()))
 			aux = "%s/%s/%s\n" % (str(i.getMac()), str(i.getHorario()), str(i.getForcaSinal()))
 			f.write(aux)
 			f.close()
-
 			subprocess.call(["sudo", "/sbin/ifdown", "wlan0"])
-			time.sleep(5)
-			subprocess.call(["sudo", "/sbin/ifup", "--force", "wlan0"])
+			subprocess.call(["sudo", "/sbin/ifup",  "wlan0"])
+
 		else:
 			r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
 			print(r.status_code, r.reason)
 			print(r.text[:600] + '...')
 			print ""
 
-'''
-def sendData(lista):
-	macs = {}
-	for i in range(len(lista)):
-		macs [i] = {'mac': str(lista[i].getMac()), 'timestamp': str(lista[i].getHorario()), 'forcaSinal': str(lista[i].getForcaSinal())}
-
-	print macs
-	url = "http://rsi2016.orgfree.com/"
-	r = requests.post( url , data=json.dumps(macs))
-	print(r.text[:600] + '...')
-'''
 
 def PacketHandler(pkt):
 	global captured
-	global capturedMac
 	global start
 	global end
 	global localMac
@@ -93,29 +80,26 @@ def PacketHandler(pkt):
 			except:
 				rssi = -100
 
-			if (pkt.addr2 not in capturedMac):
+			#if ( not captured.has_key(pkt.addr2)):
+			try:
 				pacote = Pacote(pkt.addr2,datetime.datetime.fromtimestamp(pkt.time),rssi)
-				captured.append(pacote)
-				capturedMac.append(pkt.addr2)
+				captured[pkt.addr2] = pacote
+				#captured.append(pacote)
+				#capturedMac.append(pkt.addr2)
+			except:
+				pass
+
 			elapsed = end - start
-			if (elapsed <= 300.0):																																																																																																																																																																																																																																																																																																																																																														
-				#print elapsed
+			if (elapsed <= 30.0):
 				end = time.time()
 			else:
-				#print captured
-				#print capturedMac
 				start = time.time()
 				end = time.time()
-
-				#Implementar envio dos macs capturados
-				sendData(captured)
-
-				captured = []
-				capturedMac = [localMac]
-
-			#print "Probe request - MAC: %s Forca Sinal: %s " % (pkt.addr2, rssi)
-			value = datetime.datetime.fromtimestamp(pkt.time)
-			#print("Timestamp: " + value.strftime('%d-%m-%Y %H:%M:%S'))	
+				print captured.values()
+				sendData(captured.values())
+				captured.clear()
+				gc.collect()
+				#capturedMac = [localMac]
 
 localMac = getHwAddr('wlan0')
 
@@ -126,10 +110,10 @@ start = time.time()
 end = time.time()
 
 #List with objects Pacote
-captured = []
+captured = {}
 
 #List with macs captured
-capturedMac = [localMac]
+#capturedMac = [localMac]
 
 #Mac address for local machine
 
