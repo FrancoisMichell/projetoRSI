@@ -35,11 +35,14 @@ class Pacote:
 		return self.forcaSinal
 
 def internet_on():
-    sts = False
+    sts = False 
+    print "Verificando conexao"
     try:
         response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
         sts = True
-    except urllib2.URLError as err: pass
+    except Exception as e: 
+	print e
+	pass
     return sts
 
 def getHwAddr(ifname):
@@ -48,6 +51,7 @@ def getHwAddr(ifname):
     return ':'.join(['%02x' % ord(char) for char in info[18:24]])
 
 def sendData(lista):
+	#if not internet_on():
 	for i in lista:
 		print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
 		if not internet_on():
@@ -60,6 +64,7 @@ def sendData(lista):
 			subprocess.call(["sudo", "/sbin/ifup",  "wlan0"])
 
 		else:
+		#for i in lista:
 			r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
 			print(r.status_code, r.reason)
 			print(r.text[:600] + '...')
@@ -90,7 +95,7 @@ def PacketHandler(pkt):
 				pass
 
 			elapsed = end - start
-			if (elapsed <= 30.0):
+			if (elapsed <= 120.0):
 				end = time.time()
 			else:
 				start = time.time()

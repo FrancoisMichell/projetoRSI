@@ -1,0 +1,2532 @@
+WARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb5cebfd0>, <__main__.Pacote instance at 0xb5d09e18>, <__main__.Pacote instance at 0xb5d6cf80>, <__main__.Pacote instance at 0xb5c2d8c8>, <__main__.Pacote instance at 0xb5ba07d8>, <__main__.Pacote instance at 0xb60f0eb8>, <__main__.Pacote instance at 0xb60c6210>, <__main__.Pacote instance at 0xb5f04eb8>]
+MAC: 1c:af:05:d2:a9:f4, TIMESTAMP: 2016-10-24 13:20:31.790457, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 1c:af:05:d2:a9:f4/2016-10-24 13:20:31.790457/-77
+
+MAC: ac:0d:1b:e4:85:77, TIMESTAMP: 2016-10-24 13:20:29.636162, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO ac:0d:1b:e4:85:77/2016-10-24 13:20:29.636162/-75
+
+MAC: d0:92:9e:9b:87:14, TIMESTAMP: 2016-10-24 13:20:29.149477, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO d0:92:9e:9b:87:14/2016-10-24 13:20:29.149477/-75
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 13:20:33.416262, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 13:20:33.416262/-61
+
+MAC: 20:55:31:58:4e:7e, TIMESTAMP: 2016-10-24 13:20:34.618992, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 20:55:31:58:4e:7e/2016-10-24 13:20:34.618992/-59
+
+MAC: 48:50:73:ce:0b:0c, TIMESTAMP: 2016-10-24 13:20:21.870657, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 48:50:73:ce:0b:0c/2016-10-24 13:20:21.870657/-67
+
+MAC: f8:e0:79:8f:05:0f, TIMESTAMP: 2016-10-24 13:20:21.647585, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO f8:e0:79:8f:05:0f/2016-10-24 13:20:21.647585/-75
+
+MAC: 64:6c:b2:58:3d:4b, TIMESTAMP: 2016-10-24 13:20:23.803221, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 64:6c:b2:58:3d:4b/2016-10-24 13:20:23.803221/-59
+
+[<__main__.Pacote instance at 0xb5ba4eb8>, <__main__.Pacote instance at 0xb5b666e8>]
+MAC: 20:55:31:58:4e:7e, TIMESTAMP: 2016-10-24 13:20:34.638990, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 20:55:31:58:4e:7e/2016-10-24 13:20:34.638990/-59
+
+MAC: f8:f1:b6:d6:11:9b, TIMESTAMP: 2016-10-24 13:20:34.999854, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO f8:f1:b6:d6:11:9b/2016-10-24 13:20:34.999854/-67
+
+[<__main__.Pacote instance at 0xb57dfc60>, <__main__.Pacote instance at 0xb57cb4b8>, <__main__.Pacote instance at 0xb59967b0>, <__main__.Pacote instance at 0xb5b35f80>, <__main__.Pacote instance at 0xb57c53f0>, <__main__.Pacote instance at 0xb5952c10>, <__main__.Pacote instance at 0xb57d3b48>, <__main__.Pacote instance at 0xb59c4710>, <__main__.Pacote instance at 0xb57a74b8>, <__main__.Pacote instance at 0xb5805710>, <__main__.Pacote instance at 0xb573e990>, <__main__.Pacote instance at 0xb58b3738>, <__main__.Pacote instance at 0xb5960ee0>]
+MAC: 60:67:20:f5:71:e8, TIMESTAMP: 2016-10-24 13:20:50.478911, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 60:67:20:f5:71:e8/2016-10-24 13:20:50.478911/-63
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 13:20:49.242530, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 13:20:49.242530/-256
+
+MAC: ac:0d:1b:e4:85:77, TIMESTAMP: 2016-10-24 13:20:41.835878, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO ac:0d:1b:e4:85:77/2016-10-24 13:20:41.835878/-75
+
+MAC: 64:1c:67:56:d4:66, TIMESTAMP: 2016-10-24 13:20:35.970790, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 64:1c:67:56:d4:66/2016-10-24 13:20:35.970790/-63
+
+MAC: 1c:56:fe:70:43:59, TIMESTAMP: 2016-10-24 13:20:48.897073, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 1c:56:fe:70:43:59/2016-10-24 13:20:48.897073/-67
+
+MAC: d0:92:9e:9b:87:14, TIMESTAMP: 2016-10-24 13:20:42.981264, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO d0:92:9e:9b:87:14/2016-10-24 13:20:42.981264/-53
+
+MAC: 20:55:31:58:4e:7e, TIMESTAMP: 2016-10-24 13:20:50.304888, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 20:55:31:58:4e:7e/2016-10-24 13:20:50.304888/-59
+
+MAC: 08:8c:2c:54:e0:6e, TIMESTAMP: 2016-10-24 13:20:40.305125, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO 08:8c:2c:54:e0:6e/2016-10-24 13:20:40.305125/-65
+
+MAC: 18:89:5b:14:9e:aa, TIMESTAMP: 2016-10-24 13:20:51.771822, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO 18:89:5b:14:9e:aa/2016-10-24 13:20:51.771822/-55
+
+MAC: 2c:54:cf:e1:da:36, TIMESTAMP: 2016-10-24 13:20:47.310807, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO 2c:54:cf:e1:da:36/2016-10-24 13:20:47.310807/-61
+
+MAC: 48:50:73:ce:0b:0c, TIMESTAMP: 2016-10-24 13:21:25.459275, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO 48:50:73:ce:0b:0c/2016-10-24 13:21:25.459275/-65
+
+MAC: 1c:56:fe:ab:ba:ed, TIMESTAMP: 2016-10-24 13:20:46.057237, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO 1c:56:fe:ab:ba:ed/2016-10-24 13:20:46.057237/-61
+
+MAC: 60:67:20:f5:71:b4, TIMESTAMP: 2016-10-24 13:20:43.290206, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 60:67:20:f5:71:b4/2016-10-24 13:20:43.290206/-75
+
+[<__main__.Pacote instance at 0xb575efa8>, <__main__.Pacote instance at 0xb5701878>]
+MAC: d4:93:98:9f:ae:a2, TIMESTAMP: 2016-10-24 13:21:26.179133, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO d4:93:98:9f:ae:a2/2016-10-24 13:21:26.179133/-65
+
+MAC: 90:68:c3:ee:00:ce, TIMESTAMP: 2016-10-24 13:21:36.484554, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 90:68:c3:ee:00:ce/2016-10-24 13:21:36.484554/-63
+
+[<__main__.Pacote instance at 0xb5696670>, <__main__.Pacote instance at 0xb533c198>, <__main__.Pacote instance at 0xb56e25a8>, <__main__.Pacote instance at 0xb52cf760>, <__main__.Pacote instance at 0xb51f9b48>, <__main__.Pacote instance at 0xb5565508>, <__main__.Pacote instance at 0xb5654a58>, <__main__.Pacote instance at 0xb54a8a80>, <__main__.Pacote instance at 0xb5276bc0>, <__main__.Pacote instance at 0xb56a1350>, <__main__.Pacote instance at 0xb5706350>, <__main__.Pacote instance at 0xb56ddf80>, <__main__.Pacote instance at 0xb54b5c60>]
+MAC: ec:88:92:2e:12:c5, TIMESTAMP: 2016-10-24 13:21:41.242575, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 13:21:41.242575","mac":"ec:88:92:2e:12:c5"}}...
+
+MAC: 60:e3:ac:a5:6e:7a, TIMESTAMP: 2016-10-24 13:28:25.086715, FORCA SINAL: -53 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-24 13:28:25.086715","mac":"60:e3:ac:a5:6e:7a"}}...
+
+MAC: 1c:56:fe:70:43:59, TIMESTAMP: 2016-10-24 13:21:38.766045, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 13:21:38.766045","mac":"1c:56:fe:70:43:59"}}...
+
+MAC: 60:e3:ac:a4:16:df, TIMESTAMP: 2016-10-24 13:28:25.395981, FORCA SINAL: -39 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-24 13:28:25.395981","mac":"60:e3:ac:a4:16:df"}}...
+
+MAC: 40:88:05:d4:a7:04, TIMESTAMP: 2016-10-24 13:28:30.577049, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 13:28:30.577049","mac":"40:88:05:d4:a7:04"}}...
+
+MAC: 2c:54:cf:e1:da:36, TIMESTAMP: 2016-10-24 13:21:49.928314, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 13:21:49.928314","mac":"2c:54:cf:e1:da:36"}}...
+
+MAC: 88:79:7e:a4:8f:bb, TIMESTAMP: 2016-10-24 13:21:42.825129, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 13:21:42.825129","mac":"88:79:7e:a4:8f:bb"}}...
+
+MAC: 20:55:31:58:4e:7e, TIMESTAMP: 2016-10-24 13:28:13.664104, FORCA SINAL: -69 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-24 13:28:13.664104","mac":"20:55:31:58:4e:7e"}}...
+
+MAC: 08:8c:2c:54:e0:6e, TIMESTAMP: 2016-10-24 13:28:28.200340, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 13:28:28.200340","mac":"08:8c:2c:54:e0:6e"}}...
+
+MAC: f4:0e:22:81:d1:f2, TIMESTAMP: 2016-10-24 13:21:41.504425, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 13:21:41.504425","mac":"f4:0e:22:81:d1:f2"}}...
+
+MAC: 18:89:5b:14:9e:aa, TIMESTAMP: 2016-10-24 13:21:38.607036, FORCA SINAL: -69 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-24 13:21:38.607036","mac":"18:89:5b:14:9e:aa"}}...
+
+MAC: 48:d2:24:1f:f8:d0, TIMESTAMP: 2016-10-24 13:21:38.752556, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 13:21:38.752556","mac":"48:d2:24:1f:f8:d0"}}...
+
+MAC: 1c:56:fe:ab:ba:ed, TIMESTAMP: 2016-10-24 13:28:13.845051, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 13:28:13.845051","mac":"1c:56:fe:ab:ba:ed"}}...
+
+[<__main__.Pacote instance at 0xb50ce468>, <__main__.Pacote instance at 0xb51a8eb8>]
+MAC: 08:8c:2c:54:e0:6e, TIMESTAMP: 2016-10-24 13:28:32.774229, FORCA SINAL: -67 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-24 13:28:32.774229","mac":"08:8c:2c:54:e0:6e"}}...
+
+MAC: 60:e3:ac:a5:6e:7a, TIMESTAMP: 2016-10-24 13:28:31.508296, FORCA SINAL: -59 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-24 13:28:31.508296","mac":"60:e3:ac:a5:6e:7a"}}...
+
+[<__main__.Pacote instance at 0xb517d0f8>, <__main__.Pacote instance at 0xb4b59fa8>, <__main__.Pacote instance at 0xb4d2e558>, <__main__.Pacote instance at 0xb4ba55f8>, <__main__.Pacote instance at 0xb4bbfc88>, <__main__.Pacote instance at 0xb4e91760>, <__main__.Pacote instance at 0xb4cd59e0>, <__main__.Pacote instance at 0xb4f51670>, <__main__.Pacote instance at 0xb4d7eb70>]
+MAC: 08:8c:2c:54:e0:6e, TIMESTAMP: 2016-10-24 13:28:32.797532, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 13:28:32.797532","mac":"08:8c:2c:54:e0:6e"}}...
+
+MAC: e0:2c:b2:ad:61:10, TIMESTAMP: 2016-10-24 13:29:46.471256, FORCA SINAL: -49 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-24 13:29:46.471256","mac":"e0:2c:b2:ad:61:10"}}...
+
+MAC: d0:92:9e:9b:87:14, TIMESTAMP: 2016-10-24 13:29:39.743316, FORCA SINAL: -51 
+Traceback (most recent call last):
+  File "/home/pi/projetoRSI/capturaScapy.py", line 120, in <module>
+    sniff(prn = PacketHandler)
+  File "/usr/lib/python2.7/dist-packages/scapy/sendrecv.py", line 586, in sniff
+    r = prn(p)
+  File "/home/pi/projetoRSI/capturaScapy.py", line 99, in PacketHandler
+    sendData(captured.values())
+  File "/home/pi/projetoRSI/capturaScapy.py", line 53, in sendData
+    if not internet_on():
+  File "/home/pi/projetoRSI/capturaScapy.py", line 40, in internet_on
+    response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1111, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 444, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 400, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+socket.timeout: timed out
+WARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb6151288>, <__main__.Pacote instance at 0xb6108c88>, <__main__.Pacote instance at 0xb61b78f0>]
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:17:35.596827, FORCA SINAL: -61 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-24 14:17:35.596827","mac":"b0:47:bf:cc:b0:5d"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:17:36.965453, FORCA SINAL: -83 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-83","timestamp":"2016-10-24 14:17:36.965453","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:17:35.425489, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:17:35.425489","mac":"9c:d9:17:f0:70:d9"}}...
+
+[<__main__.Pacote instance at 0xb5a72f58>, <__main__.Pacote instance at 0xb5de85a8>, <__main__.Pacote instance at 0xb5f98b70>, <__main__.Pacote instance at 0xb5c3da30>, <__main__.Pacote instance at 0xb5ca23f0>, <__main__.Pacote instance at 0xb5f63738>, <__main__.Pacote instance at 0xb5b7f620>, <__main__.Pacote instance at 0xb5d74f58>, <__main__.Pacote instance at 0xb5f7ceb8>, <__main__.Pacote instance at 0xb5c8c490>]
+MAC: f8:e0:79:cd:5f:c5, TIMESTAMP: 2016-10-24 14:29:04.818528, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 14:29:04.818528","mac":"f8:e0:79:cd:5f:c5"}}...
+
+MAC: 78:24:af:2f:98:f9, TIMESTAMP: 2016-10-24 14:28:50.660399, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 78:24:af:2f:98:f9/2016-10-24 14:28:50.660399/-77
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:17:38.345292, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:17:38.345292/-75
+
+MAC: bc:b3:08:9a:2d:14, TIMESTAMP: 2016-10-24 14:28:56.693836, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO bc:b3:08:9a:2d:14/2016-10-24 14:28:56.693836/-55
+
+MAC: 4c:bc:a5:9a:dc:29, TIMESTAMP: 2016-10-24 14:28:55.031985, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 4c:bc:a5:9a:dc:29/2016-10-24 14:28:55.031985/-75
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:17:38.946010, FORCA SINAL: -85 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:17:38.946010/-85
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:28:59.947199, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:28:59.947199/-59
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:28:52.785993, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:28:52.785993/-67
+
+MAC: ec:9b:f3:71:32:13, TIMESTAMP: 2016-10-24 14:17:39.181411, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO ec:9b:f3:71:32:13/2016-10-24 14:17:39.181411/-75
+
+MAC: a4:70:d6:f0:dc:0e, TIMESTAMP: 2016-10-24 14:28:54.827052, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO a4:70:d6:f0:dc:0e/2016-10-24 14:28:54.827052/-77
+
+[<__main__.Pacote instance at 0xb6052a58>, <__main__.Pacote instance at 0xb5a39f58>]
+MAC: f8:e0:79:cd:5f:c5, TIMESTAMP: 2016-10-24 14:29:04.819402, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO f8:e0:79:cd:5f:c5/2016-10-24 14:29:04.819402/-51
+
+MAC: ec:9b:f3:71:32:13, TIMESTAMP: 2016-10-24 14:29:06.174962, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO ec:9b:f3:71:32:13/2016-10-24 14:29:06.174962/-77
+
+[<__main__.Pacote instance at 0xb55228c8>, <__main__.Pacote instance at 0xb567cf58>, <__main__.Pacote instance at 0xb5970e18>, <__main__.Pacote instance at 0xb585ce90>, <__main__.Pacote instance at 0xb550eda0>]
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:30:18.277159, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:30:18.277159/-61
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:30:11.998595, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO e8:91:20:7d:da:6a/2016-10-24 14:30:11.998595/-77
+
+MAC: 50:fc:9f:14:22:87, TIMESTAMP: 2016-10-24 14:29:08.888675, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO 50:fc:9f:14:22:87/2016-10-24 14:29:08.888675/-65
+
+MAC: 5c:51:88:34:b3:96, TIMESTAMP: 2016-10-24 14:29:12.309683, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 5c:51:88:34:b3:96/2016-10-24 14:29:12.309683/-51
+
+MAC: b8:ee:65:14:4d:bf, TIMESTAMP: 2016-10-24 14:30:17.975122, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO b8:ee:65:14:4d:bf/2016-10-24 14:30:17.975122/-55
+
+[<__main__.Pacote instance at 0xb528b850>, <__main__.Pacote instance at 0xb545a968>, <__main__.Pacote instance at 0xb522af80>]
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:30:27.050890, FORCA SINAL: -59 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-24 14:30:27.050890","mac":"b0:47:bf:cc:b0:5d"}}...
+
+MAC: 74:29:af:d7:b2:a1, TIMESTAMP: 2016-10-24 14:30:21.139031, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:30:21.139031","mac":"74:29:af:d7:b2:a1"}}...
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-24 14:30:52.477380, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:30:52.477380","mac":"24:da:9b:cb:ce:e2"}}...
+
+[<__main__.Pacote instance at 0xb4d41a08>, <__main__.Pacote instance at 0xb5522bc0>, <__main__.Pacote instance at 0xb5241df0>, <__main__.Pacote instance at 0xb4dc2c10>, <__main__.Pacote instance at 0xb4c4a940>, <__main__.Pacote instance at 0xb50e4788>, <__main__.Pacote instance at 0xb4e6d6e8>, <__main__.Pacote instance at 0xb503dc88>, <__main__.Pacote instance at 0xb501efa8>]
+MAC: 40:78:6a:8a:71:4e, TIMESTAMP: 2016-10-24 14:31:25.036713, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 14:31:25.036713","mac":"40:78:6a:8a:71:4e"}}...
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-24 14:30:52.484451, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:30:52.484451","mac":"24:da:9b:cb:ce:e2"}}...
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:30:53.072336, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:30:53.072336","mac":"e8:91:20:7d:da:6a"}}...
+
+MAC: 4c:bc:a5:9a:dc:29, TIMESTAMP: 2016-10-24 14:31:23.245272, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:31:23.245272","mac":"4c:bc:a5:9a:dc:29"}}...
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:31:28.153853, FORCA SINAL: -61 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-24 14:31:28.153853","mac":"b0:47:bf:cc:b0:5d"}}...
+
+MAC: 78:24:af:2f:98:f9, TIMESTAMP: 2016-10-24 14:30:59.930624, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:30:59.930624","mac":"78:24:af:2f:98:f9"}}...
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:31:19.477734, FORCA SINAL: -67 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-24 14:31:19.477734","mac":"98:f0:ab:4d:c9:cf"}}...
+
+MAC: e4:58:e7:d4:94:70, TIMESTAMP: 2016-10-24 14:31:04.132314, FORCA SINAL: -55 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-24 14:31:04.132314","mac":"e4:58:e7:d4:94:70"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:31:03.528848, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:31:03.528848/-77
+
+[<__main__.Pacote instance at 0xb4c1ed00>, <__main__.Pacote instance at 0xb4c48698>]
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:31:29.771456, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO 9c:d9:17:f0:70:d9/2016-10-24 14:31:29.771456/-69
+
+MAC: a4:70:d6:5b:92:53, TIMESTAMP: 2016-10-24 14:31:30.612778, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO a4:70:d6:5b:92:53/2016-10-24 14:31:30.612778/-71
+
+[<__main__.Pacote instance at 0xb478ab98>, <__main__.Pacote instance at 0xb49f7f80>, <__main__.Pacote instance at 0xb47e4580>, <__main__.Pacote instance at 0xb47fda08>, <__main__.Pacote instance at 0xb4b11fd0>, <__main__.Pacote instance at 0xb48a2c60>, <__main__.Pacote instance at 0xb4b7c2b0>, <__main__.Pacote instance at 0xb4b34468>, <__main__.Pacote instance at 0xb4784d00>, <__main__.Pacote instance at 0xb48f7eb8>, <__main__.Pacote instance at 0xb47b2558>, <__main__.Pacote instance at 0xb4a1ca58>, <__main__.Pacote instance at 0xb4ce88f0>]
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:32:34.704328, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:32:34.704328","mac":"44:80:eb:f5:8e:4f"}}...
+
+MAC: 1c:87:2c:b9:90:a9, TIMESTAMP: 2016-10-24 14:32:19.038339, FORCA SINAL: -45 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-24 14:32:19.038339","mac":"1c:87:2c:b9:90:a9"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:32:33.877169, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:32:33.877169","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: 54:a0:50:0a:7e:e4, TIMESTAMP: 2016-10-24 14:32:34.512963, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 14:32:34.512963","mac":"54:a0:50:0a:7e:e4"}}...
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:31:34.788980, FORCA SINAL: -43 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-24 14:31:34.788980","mac":"e0:9d:31:6a:59:c8"}}...
+
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:32:30.578476, FORCA SINAL: -49 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-24 14:32:30.578476","mac":"9c:d9:17:f0:70:d9"}}...
+
+MAC: 74:29:af:d7:b2:a1, TIMESTAMP: 2016-10-24 14:31:34.227921, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:31:34.227921","mac":"74:29:af:d7:b2:a1"}}...
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:31:35.493934, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:31:35.493934","mac":"f8:e0:79:1f:37:81"}}...
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:32:37.540761, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 14:32:37.540761","mac":"b0:47:bf:cc:b0:5d"}}...
+
+MAC: 80:a5:89:e3:25:a9, TIMESTAMP: 2016-10-24 14:32:21.309755, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 14:32:21.309755","mac":"80:a5:89:e3:25:a9"}}...
+
+MAC: 90:48:9a:ed:d8:c1, TIMESTAMP: 2016-10-24 14:32:35.784732, FORCA SINAL: -47 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-24 14:32:35.784732","mac":"90:48:9a:ed:d8:c1"}}...
+
+MAC: a4:70:d6:f0:dc:0e, TIMESTAMP: 2016-10-24 14:31:39.320172, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:31:39.320172","mac":"a4:70:d6:f0:dc:0e"}}...
+
+MAC: a4:70:d6:5b:92:53, TIMESTAMP: 2016-10-24 14:31:30.623577, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:31:30.623577","mac":"a4:70:d6:5b:92:53"}}...
+
+[<__main__.Pacote instance at 0xb45daa80>, <__main__.Pacote instance at 0xb46e4e90>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 14:32:44.366271, FORCA SINAL: -49 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-24 14:32:44.366271","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:32:39.391117, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 14:32:39.391117","mac":"98:f0:ab:4d:c9:cf"}}...
+
+[<__main__.Pacote instance at 0xb42d9ad0>, <__main__.Pacote instance at 0xb44a7328>, <__main__.Pacote instance at 0xb4294ee0>, <__main__.Pacote instance at 0xb451f288>, <__main__.Pacote instance at 0xb40d3f58>, <__main__.Pacote instance at 0xb443c670>, <__main__.Pacote instance at 0xb44972d8>, <__main__.Pacote instance at 0xb4280990>, <__main__.Pacote instance at 0xb45b4d00>, <__main__.Pacote instance at 0xb4362dc8>, <__main__.Pacote instance at 0xb402be90>, <__main__.Pacote instance at 0xb4294990>, <__main__.Pacote instance at 0xb4347a58>, <__main__.Pacote instance at 0xb41655f8>, <__main__.Pacote instance at 0xb43714e0>]
+MAC: f8:e0:79:cd:5f:c5, TIMESTAMP: 2016-10-24 14:33:44.742758, FORCA SINAL: -53 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-24 14:33:44.742758","mac":"f8:e0:79:cd:5f:c5"}}...
+
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 14:32:49.892867, FORCA SINAL: -29 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 14:32:49.892867/-29
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:33:45.829018, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:33:45.829018/-67
+
+MAC: e0:9d:31:6a:58:98, TIMESTAMP: 2016-10-24 14:32:47.271571, FORCA SINAL: -35 
+SALVANDO NO ARQUIVO e0:9d:31:6a:58:98/2016-10-24 14:32:47.271571/-35
+
+MAC: 5c:e0:c5:6b:d1:c7, TIMESTAMP: 2016-10-24 14:33:54.780410, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 5c:e0:c5:6b:d1:c7/2016-10-24 14:33:54.780410/-63
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:33:34.775375, FORCA SINAL: -45 
+SALVANDO NO ARQUIVO e0:9d:31:6a:59:c8/2016-10-24 14:33:34.775375/-45
+
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:32:49.793726, FORCA SINAL: -39 
+SALVANDO NO ARQUIVO 9c:d9:17:f0:70:d9/2016-10-24 14:32:49.793726/-39
+
+MAC: 1c:87:2c:94:91:76, TIMESTAMP: 2016-10-24 14:33:48.178169, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO 1c:87:2c:94:91:76/2016-10-24 14:33:48.178169/-53
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:32:45.713743, FORCA SINAL: -29 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:32:45.713743/-29
+
+MAC: 50:fc:9f:14:22:87, TIMESTAMP: 2016-10-24 14:33:37.589026, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 50:fc:9f:14:22:87/2016-10-24 14:33:37.589026/-77
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-24 14:33:58.514635, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO 24:da:9b:cb:ce:e2/2016-10-24 14:33:58.514635/-69
+
+MAC: ec:9b:f3:71:32:13, TIMESTAMP: 2016-10-24 14:33:45.730691, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO ec:9b:f3:71:32:13/2016-10-24 14:33:45.730691/-77
+
+MAC: 1c:87:2c:b9:90:a9, TIMESTAMP: 2016-10-24 14:33:39.109435, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO 1c:87:2c:b9:90:a9/2016-10-24 14:33:39.109435/-49
+
+MAC: f8:a9:d0:6c:40:b7, TIMESTAMP: 2016-10-24 14:33:52.984535, FORCA SINAL: -57 
+SALVANDO NO ARQUIVO f8:a9:d0:6c:40:b7/2016-10-24 14:33:52.984535/-57
+
+MAC: a4:70:d6:5b:92:53, TIMESTAMP: 2016-10-24 14:33:38.211153, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO a4:70:d6:5b:92:53/2016-10-24 14:33:38.211153/-65
+
+[<__main__.Pacote instance at 0xb4038a58>]
+MAC: 30:cb:f8:0a:7d:95, TIMESTAMP: 2016-10-24 14:33:59.030601, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 30:cb:f8:0a:7d:95/2016-10-24 14:33:59.030601/-67
+
+[<__main__.Pacote instance at 0xb3c219e0>, <__main__.Pacote instance at 0xb3c69ad0>, <__main__.Pacote instance at 0xb3f58a30>, <__main__.Pacote instance at 0xb3dd9d28>, <__main__.Pacote instance at 0xb3aab800>, <__main__.Pacote instance at 0xb3d0fe90>, <__main__.Pacote instance at 0xb3d52ee0>, <__main__.Pacote instance at 0xb3dcabe8>, <__main__.Pacote instance at 0xb3c11eb8>, <__main__.Pacote instance at 0xb3ee4bc0>, <__main__.Pacote instance at 0xb3b46fd0>, <__main__.Pacote instance at 0xb3a9dcd8>, <__main__.Pacote instance at 0xb3fdfb48>, <__main__.Pacote instance at 0xb3f46dc8>]
+MAC: 2c:29:97:6a:d7:68, TIMESTAMP: 2016-10-24 14:35:27.834917, FORCA SINAL: -69 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-24 14:35:27.834917","mac":"2c:29:97:6a:d7:68"}}...
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:35:26.511938, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:35:26.511938/-71
+
+MAC: 88:79:7e:19:91:d7, TIMESTAMP: 2016-10-24 14:34:00.937585, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 88:79:7e:19:91:d7/2016-10-24 14:34:00.937585/-75
+
+MAC: e0:9d:31:6a:2a:b0, TIMESTAMP: 2016-10-24 14:34:07.972677, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO e0:9d:31:6a:2a:b0/2016-10-24 14:34:07.972677/-51
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:35:34.778555, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO e0:9d:31:6a:59:c8/2016-10-24 14:35:34.778555/-49
+
+MAC: 30:cb:f8:0a:7d:95, TIMESTAMP: 2016-10-24 14:35:16.369053, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 30:cb:f8:0a:7d:95/2016-10-24 14:35:16.369053/-67
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:34:10.076223, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:34:10.076223/-67
+
+MAC: 82:0e:60:7b:d3:5f, TIMESTAMP: 2016-10-24 14:34:07.562635, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 82:0e:60:7b:d3:5f/2016-10-24 14:34:07.562635/-77
+
+MAC: 5c:c9:d3:64:b0:2a, TIMESTAMP: 2016-10-24 14:35:27.525280, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO 5c:c9:d3:64:b0:2a/2016-10-24 14:35:27.525280/-73
+
+MAC: 88:79:7e:e2:02:7f, TIMESTAMP: 2016-10-24 14:34:03.737093, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 88:79:7e:e2:02:7f/2016-10-24 14:34:03.737093/-77
+
+MAC: b8:ee:65:14:4d:bf, TIMESTAMP: 2016-10-24 14:35:32.992715, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO b8:ee:65:14:4d:bf/2016-10-24 14:35:32.992715/-63
+
+MAC: e0:9d:31:6a:60:60, TIMESTAMP: 2016-10-24 14:35:34.500489, FORCA SINAL: -47 
+SALVANDO NO ARQUIVO e0:9d:31:6a:60:60/2016-10-24 14:35:34.500489/-47
+
+MAC: 1c:87:2c:b9:90:a9, TIMESTAMP: 2016-10-24 14:33:59.143181, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 1c:87:2c:b9:90:a9/2016-10-24 14:33:59.143181/-51
+
+MAC: f8:a9:d0:6c:40:b7, TIMESTAMP: 2016-10-24 14:34:03.256001, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO f8:a9:d0:6c:40:b7/2016-10-24 14:34:03.256001/-65
+
+[<__main__.Pacote instance at 0xb3a4f878>, <__main__.Pacote instance at 0xb4038d00>]
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:35:35.601353, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:35:35.601353/-63
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:35:34.783581, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO e0:9d:31:6a:59:c8/2016-10-24 14:35:34.783581/-49
+
+[<__main__.Pacote instance at 0xb3861f30>, <__main__.Pacote instance at 0xb37779b8>, <__main__.Pacote instance at 0xb39f9d00>, <__main__.Pacote instance at 0xb389e878>, <__main__.Pacote instance at 0xb3a55b20>, <__main__.Pacote instance at 0xb39aae90>, <__main__.Pacote instance at 0xb366d648>, <__main__.Pacote instance at 0xb3807738>, <__main__.Pacote instance at 0xb36436e8>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 14:35:44.370148, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 14:35:44.370148","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:36:55.942761, FORCA SINAL: -67 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-24 14:36:55.942761","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: 88:79:7e:f4:14:c8, TIMESTAMP: 2016-10-24 14:35:38.902288, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 88:79:7e:f4:14:c8/2016-10-24 14:35:38.902288/-77
+
+MAC: 5c:c9:d3:1c:fb:e3, TIMESTAMP: 2016-10-24 14:35:43.487735, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 5c:c9:d3:1c:fb:e3/2016-10-24 14:35:43.487735/-51
+
+MAC: 90:48:9a:ed:d8:c1, TIMESTAMP: 2016-10-24 14:35:35.827408, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO 90:48:9a:ed:d8:c1/2016-10-24 14:35:35.827408/-49
+
+MAC: 88:79:7e:a4:8f:bb, TIMESTAMP: 2016-10-24 14:35:39.820990, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 88:79:7e:a4:8f:bb/2016-10-24 14:35:39.820990/-75
+
+MAC: 5c:e0:c5:6b:d1:c7, TIMESTAMP: 2016-10-24 14:37:00.942028, FORCA SINAL: -57 
+SALVANDO NO ARQUIVO 5c:e0:c5:6b:d1:c7/2016-10-24 14:37:00.942028/-57
+
+MAC: 08:62:66:44:08:56, TIMESTAMP: 2016-10-24 14:35:46.755428, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 08:62:66:44:08:56/2016-10-24 14:35:46.755428/-79
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-24 14:37:03.501483, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO 24:da:9b:cb:ce:e2/2016-10-24 14:37:03.501483/-73
+
+[<__main__.Pacote instance at 0xb3590c60>, <__main__.Pacote instance at 0xb3539e40>]
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:37:04.890852, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:37:04.890852","mac":"e4:98:d1:c4:57:a4"}}...
+
+MAC: e0:9d:31:6a:2a:b0, TIMESTAMP: 2016-10-24 14:37:07.980294, FORCA SINAL: -53 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-24 14:37:07.980294","mac":"e0:9d:31:6a:2a:b0"}}...
+
+[<__main__.Pacote instance at 0xb31cc490>, <__main__.Pacote instance at 0xb343ba08>, <__main__.Pacote instance at 0xb3502aa8>, <__main__.Pacote instance at 0xb3458800>, <__main__.Pacote instance at 0xb2fc9e40>, <__main__.Pacote instance at 0xb3460918>, <__main__.Pacote instance at 0xb32859e0>]
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:38:05.074035, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 14:38:05.074035","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: f4:f1:e1:df:58:1b, TIMESTAMP: 2016-10-24 14:37:13.071636, FORCA SINAL: -35 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-35","timestamp":"2016-10-24 14:37:13.071636","mac":"f4:f1:e1:df:58:1b"}}...
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:37:09.304290, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 14:37:09.304290","mac":"e8:91:20:7d:da:6a"}}...
+
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:37:11.289127, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:37:11.289127","mac":"e4:98:d1:c4:57:a4"}}...
+
+MAC: e0:9d:31:6a:58:98, TIMESTAMP: 2016-10-24 14:38:12.336530, FORCA SINAL: -35 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-35","timestamp":"2016-10-24 14:38:12.336530","mac":"e0:9d:31:6a:58:98"}}...
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:37:11.303869, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:37:11.303869","mac":"98:f0:ab:4d:c9:cf"}}...
+
+MAC: e4:90:7e:42:40:f8, TIMESTAMP: 2016-10-24 14:37:54.648038, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO e4:90:7e:42:40:f8/2016-10-24 14:37:54.648038/-53
+
+[<__main__.Pacote instance at 0xb2f7afa8>, <__main__.Pacote instance at 0xb2ee1648>]
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:38:15.356494, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 14:38:15.356494","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: 74:29:af:d7:b2:a1, TIMESTAMP: 2016-10-24 14:38:17.581617, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:38:17.581617","mac":"74:29:af:d7:b2:a1"}}...
+
+[<__main__.Pacote instance at 0xb2c48fa8>, <__main__.Pacote instance at 0xb2c40f30>, <__main__.Pacote instance at 0xb2a93490>, <__main__.Pacote instance at 0xb2bf0eb8>, <__main__.Pacote instance at 0xb2babda0>, <__main__.Pacote instance at 0xb2dccd78>, <__main__.Pacote instance at 0xb2dcc440>, <__main__.Pacote instance at 0xb2e33760>, <__main__.Pacote instance at 0xb2c25c60>]
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 14:38:58.055913, FORCA SINAL: -27 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-27","timestamp":"2016-10-24 14:38:58.055913","mac":"00:0d:f0:a2:9f:11"}}...
+
+MAC: 2c:29:97:6a:d7:68, TIMESTAMP: 2016-10-24 14:38:57.987231, FORCA SINAL: -67 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-24 14:38:57.987231","mac":"2c:29:97:6a:d7:68"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:39:20.082510, FORCA SINAL: -69 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-24 14:39:20.082510","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: f4:f1:e1:df:58:1b, TIMESTAMP: 2016-10-24 14:39:14.856240, FORCA SINAL: -39 
+SALVANDO NO ARQUIVO f4:f1:e1:df:58:1b/2016-10-24 14:39:14.856240/-39
+
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:39:15.926386, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO e4:98:d1:c4:57:a4/2016-10-24 14:39:15.926386/-77
+
+MAC: 1c:87:2c:94:91:76, TIMESTAMP: 2016-10-24 14:38:21.720217, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO 1c:87:2c:94:91:76/2016-10-24 14:38:21.720217/-55
+
+MAC: 34:aa:8b:b4:42:88, TIMESTAMP: 2016-10-24 14:38:21.550722, FORCA SINAL: -83 
+SALVANDO NO ARQUIVO 34:aa:8b:b4:42:88/2016-10-24 14:38:21.550722/-83
+
+MAC: a4:70:d6:f0:dc:0e, TIMESTAMP: 2016-10-24 14:38:21.193736, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO a4:70:d6:f0:dc:0e/2016-10-24 14:38:21.193736/-73
+
+MAC: 84:10:0d:dc:b6:a6, TIMESTAMP: 2016-10-24 14:38:57.208448, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 84:10:0d:dc:b6:a6/2016-10-24 14:38:57.208448/-77
+
+[<__main__.Pacote instance at 0xb2ab8f08>, <__main__.Pacote instance at 0xb3a4f8c8>]
+MAC: 5c:c9:d3:1c:fb:e3, TIMESTAMP: 2016-10-24 14:39:20.783272, FORCA SINAL: -43 
+SALVANDO NO ARQUIVO 5c:c9:d3:1c:fb:e3/2016-10-24 14:39:20.783272/-43
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:39:20.106210, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:39:20.106210/-67
+
+[<__main__.Pacote instance at 0xb268aad0>, <__main__.Pacote instance at 0xb24d61e8>, <__main__.Pacote instance at 0xb2f7afa8>, <__main__.Pacote instance at 0xb2865af8>, <__main__.Pacote instance at 0xb27463c8>, <__main__.Pacote instance at 0xb28b6c60>, <__main__.Pacote instance at 0xb2a4afa8>, <__main__.Pacote instance at 0xb2976fa8>, <__main__.Pacote instance at 0xb2977ee0>, <__main__.Pacote instance at 0xb27705d0>]
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:40:24.135804, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:40:24.135804/-69
+
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:40:31.973793, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO e4:98:d1:c4:57:a4/2016-10-24 14:40:31.973793/-77
+
+MAC: 5c:c9:d3:1c:fb:e3, TIMESTAMP: 2016-10-24 14:39:20.784254, FORCA SINAL: -41 
+SALVANDO NO ARQUIVO 5c:c9:d3:1c:fb:e3/2016-10-24 14:39:20.784254/-41
+
+MAC: 88:79:7e:19:91:d7, TIMESTAMP: 2016-10-24 14:40:05.118087, FORCA SINAL: -83 
+SALVANDO NO ARQUIVO 88:79:7e:19:91:d7/2016-10-24 14:40:05.118087/-83
+
+MAC: 1c:87:2c:94:91:76, TIMESTAMP: 2016-10-24 14:40:23.057814, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO 1c:87:2c:94:91:76/2016-10-24 14:40:23.057814/-55
+
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:39:32.342394, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO 9c:d9:17:f0:70:d9/2016-10-24 14:39:32.342394/-49
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:39:21.031461, FORCA SINAL: -31 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:39:21.031461/-31
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:39:27.317943, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:39:27.317943/-67
+
+MAC: 5c:51:88:34:b3:96, TIMESTAMP: 2016-10-24 14:39:27.452285, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO 5c:51:88:34:b3:96/2016-10-24 14:39:27.452285/-53
+
+MAC: 80:a5:89:e3:25:a9, TIMESTAMP: 2016-10-24 14:40:21.530161, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 80:a5:89:e3:25:a9/2016-10-24 14:40:21.530161/-67
+
+[<__main__.Pacote instance at 0xb24a89b8>, <__main__.Pacote instance at 0xb24a8da0>]
+MAC: e0:9d:31:6a:60:60, TIMESTAMP: 2016-10-24 14:40:34.710767, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO e0:9d:31:6a:60:60/2016-10-24 14:40:34.710767/-53
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:40:34.786490, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO e0:9d:31:6a:59:c8/2016-10-24 14:40:34.786490/-55
+
+[<__main__.Pacote instance at 0xb24b6eb8>, <__main__.Pacote instance at 0xb24c4ee0>, <__main__.Pacote instance at 0xb23a4468>, <__main__.Pacote instance at 0xb2332e18>, <__main__.Pacote instance at 0xb2369fa8>, <__main__.Pacote instance at 0xb239a580>]
+MAC: 78:24:af:2f:98:f9, TIMESTAMP: 2016-10-24 14:40:34.835314, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 78:24:af:2f:98:f9/2016-10-24 14:40:34.835314/-71
+
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:40:35.638189, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO e4:98:d1:c4:57:a4/2016-10-24 14:40:35.638189/-79
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:40:39.685430, FORCA SINAL: -33 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:40:39.685430/-33
+
+MAC: 4c:bc:a5:9a:dc:29, TIMESTAMP: 2016-10-24 14:40:41.531659, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 4c:bc:a5:9a:dc:29/2016-10-24 14:40:41.531659/-77
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:40:40.647015, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:40:40.647015/-69
+
+MAC: 30:cb:f8:29:0b:4b, TIMESTAMP: 2016-10-24 14:40:39.495757, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 30:cb:f8:29:0b:4b/2016-10-24 14:40:39.495757/-75
+
+[<__main__.Pacote instance at 0xb21fef58>]
+MAC: e4:58:e7:d4:94:70, TIMESTAMP: 2016-10-24 14:41:53.969095, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO e4:58:e7:d4:94:70/2016-10-24 14:41:53.969095/-69
+
+[<__main__.Pacote instance at 0xb1fd5e90>, <__main__.Pacote instance at 0xb2037df0>, <__main__.Pacote instance at 0xb1f7d9b8>, <__main__.Pacote instance at 0xb206e350>, <__main__.Pacote instance at 0xb20f0788>, <__main__.Pacote instance at 0xb1dfc508>, <__main__.Pacote instance at 0xb2017468>, <__main__.Pacote instance at 0xb215c788>, <__main__.Pacote instance at 0xb20892b0>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 14:42:44.368271, FORCA SINAL: -63 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-24 14:42:44.368271","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: 78:24:af:2f:98:f9, TIMESTAMP: 2016-10-24 14:42:43.956424, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:42:43.956424","mac":"78:24:af:2f:98:f9"}}...
+
+MAC: 00:37:6d:fb:8c:b5, TIMESTAMP: 2016-10-24 14:42:47.771421, FORCA SINAL: -69 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-24 14:42:47.771421","mac":"00:37:6d:fb:8c:b5"}}...
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:42:43.226814, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:42:43.226814","mac":"e8:91:20:7d:da:6a"}}...
+
+MAC: 5c:c9:d3:1c:fb:e3, TIMESTAMP: 2016-10-24 14:42:27.715798, FORCA SINAL: -55 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-24 14:42:27.715798","mac":"5c:c9:d3:1c:fb:e3"}}...
+
+MAC: f4:0e:22:98:36:2c, TIMESTAMP: 2016-10-24 14:42:55.657456, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO f4:0e:22:98:36:2c/2016-10-24 14:42:55.657456/-77
+
+MAC: 1c:b7:2c:73:da:12, TIMESTAMP: 2016-10-24 14:42:43.574213, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 1c:b7:2c:73:da:12/2016-10-24 14:42:43.574213/-77
+
+MAC: 84:10:0d:dc:b6:a6, TIMESTAMP: 2016-10-24 14:41:57.189261, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 84:10:0d:dc:b6:a6/2016-10-24 14:41:57.189261/-77
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:42:28.410848, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:42:28.410848/-65
+
+[<__main__.Pacote instance at 0xb1d66d00>]
+MAC: 62:09:82:39:eb:9e, TIMESTAMP: 2016-10-24 14:42:57.116504, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO 62:09:82:39:eb:9e/2016-10-24 14:42:57.116504/-65
+
+[<__main__.Pacote instance at 0xb1d10cd8>, <__main__.Pacote instance at 0xb1d74eb8>, <__main__.Pacote instance at 0xb1acc350>, <__main__.Pacote instance at 0xb1b6cf30>, <__main__.Pacote instance at 0xb1b93940>, <__main__.Pacote instance at 0xb1c169b8>, <__main__.Pacote instance at 0xb1d66fd0>, <__main__.Pacote instance at 0xb19eb7d8>, <__main__.Pacote instance at 0xb1c25a30>, <__main__.Pacote instance at 0xb1c8e468>]
+MAC: e4:90:7e:42:40:f8, TIMESTAMP: 2016-10-24 14:42:57.958276, FORCA SINAL: -49 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-24 14:42:57.958276","mac":"e4:90:7e:42:40:f8"}}...
+
+MAC: e4:98:d1:c4:57:a4, TIMESTAMP: 2016-10-24 14:42:57.233185, FORCA SINAL: -81 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-24 14:42:57.233185","mac":"e4:98:d1:c4:57:a4"}}...
+
+MAC: 88:79:7e:19:91:d7, TIMESTAMP: 2016-10-24 14:44:32.203577, FORCA SINAL: -81 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-24 14:44:32.203577","mac":"88:79:7e:19:91:d7"}}...
+
+MAC: 44:74:6c:4e:13:6b, TIMESTAMP: 2016-10-24 14:44:30.624153, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 14:44:30.624153","mac":"44:74:6c:4e:13:6b"}}...
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-24 14:44:10.554674, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:44:10.554674","mac":"24:da:9b:cb:ce:e2"}}...
+
+MAC: 88:79:7e:7a:f5:72, TIMESTAMP: 2016-10-24 14:43:02.021302, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 14:43:02.021302","mac":"88:79:7e:7a:f5:72"}}...
+
+MAC: 62:09:82:39:eb:9e, TIMESTAMP: 2016-10-24 14:42:57.118542, FORCA SINAL: -65 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-24 14:42:57.118542","mac":"62:09:82:39:eb:9e"}}...
+
+MAC: 20:62:74:e9:6b:e0, TIMESTAMP: 2016-10-24 14:44:36.945994, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:44:36.945994","mac":"20:62:74:e9:6b:e0"}}...
+
+MAC: 54:a0:50:ef:b4:50, TIMESTAMP: 2016-10-24 14:43:02.299968, FORCA SINAL: -57 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-24 14:43:02.299968","mac":"54:a0:50:ef:b4:50"}}...
+
+MAC: a4:70:d6:5b:92:53, TIMESTAMP: 2016-10-24 14:42:59.481224, FORCA SINAL: -57 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-24 14:42:59.481224","mac":"a4:70:d6:5b:92:53"}}...
+
+[<__main__.Pacote instance at 0xb1972878>, <__main__.Pacote instance at 0xb1d91710>]
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:44:40.224084, FORCA SINAL: -29 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-29","timestamp":"2016-10-24 14:44:40.224084","mac":"f8:e0:79:1f:37:81"}}...
+
+MAC: 20:62:74:e9:6b:e0, TIMESTAMP: 2016-10-24 14:44:36.946969, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 14:44:36.946969","mac":"20:62:74:e9:6b:e0"}}...
+
+[<__main__.Pacote instance at 0xb1495ee0>, <__main__.Pacote instance at 0xb146e940>, <__main__.Pacote instance at 0xb1787a30>, <__main__.Pacote instance at 0xb1939878>, <__main__.Pacote instance at 0xb14a6b48>, <__main__.Pacote instance at 0xb15163f0>, <__main__.Pacote instance at 0xb1533300>, <__main__.Pacote instance at 0xb1979288>, <__main__.Pacote instance at 0xb18a2968>, <__main__.Pacote instance at 0xb14efee0>, <__main__.Pacote instance at 0xb1553350>, <__main__.Pacote instance at 0xb141e6e8>, <__main__.Pacote instance at 0xb14f2f58>, <__main__.Pacote instance at 0xb153f558>, <__main__.Pacote instance at 0xb13e3d50>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 14:45:44.376090, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO e0:9d:31:75:6d:a8/2016-10-24 14:45:44.376090/-49
+
+MAC: f4:0e:22:98:36:2c, TIMESTAMP: 2016-10-24 14:45:46.308976, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO f4:0e:22:98:36:2c/2016-10-24 14:45:46.308976/-77
+
+MAC: 28:34:11:05:34:66, TIMESTAMP: 2016-10-24 14:45:26.788244, FORCA SINAL: -81 
+SALVANDO NO ARQUIVO 28:34:11:05:34:66/2016-10-24 14:45:26.788244/-81
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:44:41.177847, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:44:41.177847/-69
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:45:44.863093, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO e8:91:20:7d:da:6a/2016-10-24 14:45:44.863093/-71
+
+MAC: 54:a0:50:0a:7e:e4, TIMESTAMP: 2016-10-24 14:45:41.722764, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 54:a0:50:0a:7e:e4/2016-10-24 14:45:41.722764/-71
+
+MAC: 88:79:7e:19:91:d7, TIMESTAMP: 2016-10-24 14:45:42.200681, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 88:79:7e:19:91:d7/2016-10-24 14:45:42.200681/-79
+
+MAC: 1c:87:2c:94:91:76, TIMESTAMP: 2016-10-24 14:44:40.476268, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 1c:87:2c:94:91:76/2016-10-24 14:44:40.476268/-51
+
+MAC: 20:62:74:e9:6b:e0, TIMESTAMP: 2016-10-24 14:44:42.665395, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 20:62:74:e9:6b:e0/2016-10-24 14:44:42.665395/-77
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:45:43.829127, FORCA SINAL: -29 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:45:43.829127/-29
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:45:40.139508, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:45:40.139508/-77
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 14:45:47.179199, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO e0:9d:31:6a:34:94/2016-10-24 14:45:47.179199/-51
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:45:43.914145, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:45:43.914145/-71
+
+MAC: 1c:b7:2c:73:da:12, TIMESTAMP: 2016-10-24 14:45:42.613546, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 1c:b7:2c:73:da:12/2016-10-24 14:45:42.613546/-77
+
+MAC: 78:f8:82:fe:57:ea, TIMESTAMP: 2016-10-24 14:45:48.078883, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO 78:f8:82:fe:57:ea/2016-10-24 14:45:48.078883/-53
+
+[<__main__.Pacote instance at 0xb13a0710>, <__main__.Pacote instance at 0xb2a9f4b8>]
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:45:49.301252, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:45:49.301252/-77
+
+MAC: 78:f8:82:fe:57:ea, TIMESTAMP: 2016-10-24 14:45:48.080047, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 78:f8:82:fe:57:ea/2016-10-24 14:45:48.080047/-51
+
+[<__main__.Pacote instance at 0xb0f13f08>, <__main__.Pacote instance at 0xb119ccb0>, <__main__.Pacote instance at 0xb1387f08>, <__main__.Pacote instance at 0xb10c5238>, <__main__.Pacote instance at 0xb111e508>, <__main__.Pacote instance at 0xb13accd8>, <__main__.Pacote instance at 0xb10ad620>, <__main__.Pacote instance at 0xb12bb6c0>]
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 14:47:22.096166, FORCA SINAL: -27 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 14:47:22.096166/-27
+
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:46:59.937444, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 44:80:eb:f5:8e:4f/2016-10-24 14:46:59.937444/-79
+
+MAC: 30:5a:3a:dd:c9:43, TIMESTAMP: 2016-10-24 14:45:51.238199, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 30:5a:3a:dd:c9:43/2016-10-24 14:45:51.238199/-77
+
+MAC: 5c:51:88:34:b3:96, TIMESTAMP: 2016-10-24 14:47:16.107911, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO 5c:51:88:34:b3:96/2016-10-24 14:47:16.107911/-61
+
+MAC: 20:62:74:e9:6b:e0, TIMESTAMP: 2016-10-24 14:47:12.373887, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 20:62:74:e9:6b:e0/2016-10-24 14:47:12.373887/-75
+
+MAC: b0:47:bf:cc:b0:5d, TIMESTAMP: 2016-10-24 14:45:49.339189, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO b0:47:bf:cc:b0:5d/2016-10-24 14:45:49.339189/-77
+
+MAC: c0:65:99:c4:d1:c5, TIMESTAMP: 2016-10-24 14:47:15.610612, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO c0:65:99:c4:d1:c5/2016-10-24 14:47:15.610612/-77
+
+MAC: 64:bc:0c:3f:6f:c4, TIMESTAMP: 2016-10-24 14:45:53.953778, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 64:bc:0c:3f:6f:c4/2016-10-24 14:45:53.953778/-63
+
+[<__main__.Pacote instance at 0xb0efed00>, <__main__.Pacote instance at 0xb0f17e90>]
+MAC: c0:65:99:c4:d1:c5, TIMESTAMP: 2016-10-24 14:47:23.923679, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO c0:65:99:c4:d1:c5/2016-10-24 14:47:23.923679/-73
+
+MAC: 90:48:9a:ed:d8:c1, TIMESTAMP: 2016-10-24 14:47:22.160099, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO 90:48:9a:ed:d8:c1/2016-10-24 14:47:22.160099/-49
+
+[<__main__.Pacote instance at 0xb0dc7738>, <__main__.Pacote instance at 0xb08d05f8>, <__main__.Pacote instance at 0xb0c173f0>, <__main__.Pacote instance at 0xb0e73a58>, <__main__.Pacote instance at 0xb0ce8800>, <__main__.Pacote instance at 0xb0d98508>, <__main__.Pacote instance at 0xb0d91260>, <__main__.Pacote instance at 0xb0c17fd0>, <__main__.Pacote instance at 0xb0b89bc0>]
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:47:29.918070, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 14:47:29.918070","mac":"44:80:eb:f5:8e:4f"}}...
+
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:48:43.186010, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 14:48:43.186010","mac":"f0:c1:f1:b0:52:93"}}...
+
+MAC: e8:91:20:7d:da:6a, TIMESTAMP: 2016-10-24 14:48:30.098892, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO e8:91:20:7d:da:6a/2016-10-24 14:48:30.098892/-79
+
+MAC: 9c:d9:17:f0:70:d9, TIMESTAMP: 2016-10-24 14:47:25.604487, FORCA SINAL: -41 
+SALVANDO NO ARQUIVO 9c:d9:17:f0:70:d9/2016-10-24 14:47:25.604487/-41
+
+MAC: 20:62:74:e9:6b:e0, TIMESTAMP: 2016-10-24 14:48:09.466375, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 20:62:74:e9:6b:e0/2016-10-24 14:48:09.466375/-75
+
+MAC: f8:e0:79:1f:37:81, TIMESTAMP: 2016-10-24 14:47:29.018643, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO f8:e0:79:1f:37:81/2016-10-24 14:47:29.018643/-79
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:47:29.000385, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:47:29.000385/-71
+
+MAC: 1c:b7:2c:73:da:12, TIMESTAMP: 2016-10-24 14:48:30.116125, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 1c:b7:2c:73:da:12/2016-10-24 14:48:30.116125/-77
+
+MAC: a4:70:d6:f0:dc:0e, TIMESTAMP: 2016-10-24 14:48:32.427239, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO a4:70:d6:f0:dc:0e/2016-10-24 14:48:32.427239/-77
+
+[<__main__.Pacote instance at 0xb08d5b48>]
+MAC: f0:c1:f1:b0:52:93, TIMESTAMP: 2016-10-24 14:48:43.276973, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO f0:c1:f1:b0:52:93/2016-10-24 14:48:43.276973/-71
+
+[<__main__.Pacote instance at 0xb0855aa8>, <__main__.Pacote instance at 0xb05593c8>, <__main__.Pacote instance at 0xb04e9fd0>, <__main__.Pacote instance at 0xb06b8300>, <__main__.Pacote instance at 0xb07d7ad0>, <__main__.Pacote instance at 0xb0375e90>, <__main__.Pacote instance at 0xb0683e40>, <__main__.Pacote instance at 0xb0875df0>, <__main__.Pacote instance at 0xb0375aa8>]
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:48:44.988547, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO 44:80:eb:f5:8e:4f/2016-10-24 14:48:44.988547/-73
+
+MAC: f4:0e:22:98:36:2c, TIMESTAMP: 2016-10-24 14:49:38.051688, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO f4:0e:22:98:36:2c/2016-10-24 14:49:38.051688/-79
+
+MAC: e0:9d:31:74:c5:30, TIMESTAMP: 2016-10-24 14:49:39.238151, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO e0:9d:31:74:c5:30/2016-10-24 14:49:39.238151/-53
+
+MAC: e0:9d:31:6a:59:c8, TIMESTAMP: 2016-10-24 14:49:34.796499, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO e0:9d:31:6a:59:c8/2016-10-24 14:49:34.796499/-51
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 14:48:47.172431, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO e0:9d:31:6a:34:94/2016-10-24 14:48:47.172431/-51
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:49:43.134983, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:49:43.134983/-77
+
+MAC: 1c:b7:2c:73:da:12, TIMESTAMP: 2016-10-24 14:49:35.600359, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO 1c:b7:2c:73:da:12/2016-10-24 14:49:35.600359/-69
+
+MAC: f2:5d:9f:5a:35:4c, TIMESTAMP: 2016-10-24 14:48:45.407145, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO f2:5d:9f:5a:35:4c/2016-10-24 14:48:45.407145/-79
+
+MAC: 70:3e:ac:11:30:69, TIMESTAMP: 2016-10-24 14:49:43.122598, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 70:3e:ac:11:30:69/2016-10-24 14:49:43.122598/-77
+
+[<__main__.Pacote instance at 0xb06b8300>, <__main__.Pacote instance at 0xb037d9b8>]
+MAC: 70:3e:ac:11:30:69, TIMESTAMP: 2016-10-24 14:49:43.145353, FORCA SINAL: -81 
+SALVANDO NO ARQUIVO 70:3e:ac:11:30:69/2016-10-24 14:49:43.145353/-81
+
+MAC: 98:f0:ab:4d:c9:cf, TIMESTAMP: 2016-10-24 14:49:43.190754, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 98:f0:ab:4d:c9:cf/2016-10-24 14:49:43.190754/-79
+
+[<__main__.Pacote instance at 0xb02e8c10>, <__main__.Pacote instance at 0xb026a8c8>, <__main__.Pacote instance at 0xb02a7a80>, <__main__.Pacote instance at 0xaff52dc8>, <__main__.Pacote instance at 0xb02c55d0>, <__main__.Pacote instance at 0xb022eaa8>, <__main__.Pacote instance at 0xb02c5f08>, <__main__.Pacote instance at 0xaff6f328>, <__main__.Pacote instance at 0xb00bceb8>, <__main__.Pacote instance at 0xb02d6288>, <__main__.Pacote instance at 0xafe14738>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 14:49:44.378919, FORCA SINAL: -57 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-24 14:49:44.378919","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: e0:9d:31:74:fb:d8, TIMESTAMP: 2016-10-24 14:49:46.106046, FORCA SINAL: -49 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-24 14:49:46.106046","mac":"e0:9d:31:74:fb:d8"}}...
+
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:49:45.019093, FORCA SINAL: -71 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-24 14:49:45.019093","mac":"44:80:eb:f5:8e:4f"}}...
+
+MAC: 1c:87:2c:94:91:76, TIMESTAMP: 2016-10-24 14:49:56.888638, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 14:49:56.888638","mac":"1c:87:2c:94:91:76"}}...
+
+MAC: 90:48:9a:ed:d8:c1, TIMESTAMP: 2016-10-24 14:49:45.572418, FORCA SINAL: -45 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-24 14:49:45.572418","mac":"90:48:9a:ed:d8:c1"}}...
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 14:49:47.178943, FORCA SINAL: -53 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-24 14:49:47.178943","mac":"e0:9d:31:6a:34:94"}}...
+
+MAC: 1c:b7:2c:73:da:12, TIMESTAMP: 2016-10-24 14:49:45.611353, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO 1c:b7:2c:73:da:12/2016-10-24 14:49:45.611353/-69
+
+MAC: 18:89:5b:09:d8:08, TIMESTAMP: 2016-10-24 14:49:57.216627, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 18:89:5b:09:d8:08/2016-10-24 14:49:57.216627/-77
+
+MAC: 70:3e:ac:11:30:69, TIMESTAMP: 2016-10-24 14:49:53.064857, FORCA SINAL: -75 
+SALVANDO NO ARQUIVO 70:3e:ac:11:30:69/2016-10-24 14:49:53.064857/-75
+
+MAC: 64:bc:0c:3f:61:c9, TIMESTAMP: 2016-10-24 14:49:44.059090, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 64:bc:0c:3f:61:c9/2016-10-24 14:49:44.059090/-67
+
+MAC: 54:a0:50:ef:b4:50, TIMESTAMP: 2016-10-24 14:50:53.759111, FORCA SINAL: -61 
+SALVANDO NO ARQUIVO 54:a0:50:ef:b4:50/2016-10-24 14:50:53.759111/-61
+
+[<__main__.Pacote instance at 0xb0380df0>]
+MAC: 54:a0:50:ef:b4:50, TIMESTAMP: 2016-10-24 14:50:53.820326, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 54:a0:50:ef:b4:50/2016-10-24 14:50:53.820326/-59
+
+[<__main__.Pacote instance at 0xafcea2d8>, <__main__.Pacote instance at 0xafb7fe68>, <__main__.Pacote instance at 0xafa2c4e0>, <__main__.Pacote instance at 0xaf9d65a8>, <__main__.Pacote instance at 0xafc4ffa8>, <__main__.Pacote instance at 0xaf986300>, <__main__.Pacote instance at 0xaf9a5f30>, <__main__.Pacote instance at 0xafe18030>, <__main__.Pacote instance at 0xaf9f2558>, <__main__.Pacote instance at 0xafc6f558>]
+MAC: 44:80:eb:f5:8e:4f, TIMESTAMP: 2016-10-24 14:51:00.078287, FORCA SINAL: -75 
+Traceback (most recent call last):
+  File "/home/pi/projetoRSI/capturaScapy.py", line 120, in <module>
+    sniff(prn = PacketHandler)
+  File "/usr/lib/python2.7/dist-packages/scapy/sendrecv.py", line 586, in sniff
+    r = prn(p)
+  File "/home/pi/projetoRSI/capturaScapy.py", line 99, in PacketHandler
+    sendData(captured.values())
+  File "/home/pi/projetoRSI/capturaScapy.py", line 53, in sendData
+    if not internet_on():
+  File "/home/pi/projetoRSI/capturaScapy.py", line 40, in internet_on
+    response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 469, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 656, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1111, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 444, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 400, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+socket.timeout: timed out
+WARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb5fb1350>, <__main__.Pacote instance at 0xb5f4c238>, <__main__.Pacote instance at 0xb6098bc0>, <__main__.Pacote instance at 0xb5be88a0>, <__main__.Pacote instance at 0xb6262440>, <__main__.Pacote instance at 0xb61f6238>, <__main__.Pacote instance at 0xb5b5c710>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 15:27:44.371599, FORCA SINAL: -47 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-24 15:27:44.371599","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 15:27:47.181313, FORCA SINAL: -37 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-37","timestamp":"2016-10-24 15:27:47.181313","mac":"e0:9d:31:6a:34:94"}}...
+
+MAC: c0:11:73:b7:a1:04, TIMESTAMP: 2016-10-24 15:27:41.602970, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:27:41.602970","mac":"c0:11:73:b7:a1:04"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:28:05.840522, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 44:80:eb:f7:a5:ee/2016-10-24 15:28:05.840522/-77
+
+MAC: e0:9d:31:6a:60:60, TIMESTAMP: 2016-10-24 15:27:34.525682, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO e0:9d:31:6a:60:60/2016-10-24 15:27:34.525682/-59
+
+MAC: 00:26:82:58:7e:fa, TIMESTAMP: 2016-10-24 15:27:34.643460, FORCA SINAL: -81 
+SALVANDO NO ARQUIVO 00:26:82:58:7e:fa/2016-10-24 15:27:34.643460/-81
+
+MAC: e0:9d:31:6a:34:68, TIMESTAMP: 2016-10-24 15:28:07.578789, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO e0:9d:31:6a:34:68/2016-10-24 15:28:07.578789/-79
+
+[<__main__.Pacote instance at 0xb5b6df08>]
+MAC: e0:9d:31:6a:34:68, TIMESTAMP: 2016-10-24 15:28:07.592454, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO e0:9d:31:6a:34:68/2016-10-24 15:28:07.592454/-79
+
+[<__main__.Pacote instance at 0xb585bcb0>, <__main__.Pacote instance at 0xb55681e8>, <__main__.Pacote instance at 0xb58b0d50>, <__main__.Pacote instance at 0xb5aea850>, <__main__.Pacote instance at 0xb55a4d28>]
+MAC: e0:9d:31:75:98:40, TIMESTAMP: 2016-10-24 15:28:56.526268, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:28:56.526268","mac":"e0:9d:31:75:98:40"}}...
+
+MAC: 78:f8:82:fe:57:ea, TIMESTAMP: 2016-10-24 15:29:07.386113, FORCA SINAL: -55 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-24 15:29:07.386113","mac":"78:f8:82:fe:57:ea"}}...
+
+MAC: e0:9d:31:74:d3:f4, TIMESTAMP: 2016-10-24 15:28:52.141134, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 15:28:52.141134","mac":"e0:9d:31:74:d3:f4"}}...
+
+MAC: e0:9d:31:6a:2a:b0, TIMESTAMP: 2016-10-24 15:28:08.004926, FORCA SINAL: -47 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-24 15:28:08.004926","mac":"e0:9d:31:6a:2a:b0"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:29:05.920718, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 15:29:05.920718","mac":"44:80:eb:f7:a5:ee"}}...
+
+[<__main__.Pacote instance at 0xb5358210>, <__main__.Pacote instance at 0xb53853a0>, <__main__.Pacote instance at 0xb5346800>, <__main__.Pacote instance at 0xb51ed940>, <__main__.Pacote instance at 0xb5221e90>, <__main__.Pacote instance at 0xb51531c0>, <__main__.Pacote instance at 0xb4ff93f0>, <__main__.Pacote instance at 0xb5470300>]
+MAC: e0:9d:31:75:18:60, TIMESTAMP: 2016-10-24 15:29:14.318012, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:29:14.318012","mac":"e0:9d:31:75:18:60"}}...
+
+MAC: e0:9d:31:74:c5:30, TIMESTAMP: 2016-10-24 15:29:13.660025, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 15:29:13.660025","mac":"e0:9d:31:74:c5:30"}}...
+
+MAC: a0:88:69:90:8a:fd, TIMESTAMP: 2016-10-24 15:29:14.167312, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:29:14.167312","mac":"a0:88:69:90:8a:fd"}}...
+
+MAC: c0:11:73:b7:a1:04, TIMESTAMP: 2016-10-24 15:29:31.798310, FORCA SINAL: -81 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-24 15:29:31.798310","mac":"c0:11:73:b7:a1:04"}}...
+
+MAC: c4:42:02:36:43:36, TIMESTAMP: 2016-10-24 15:29:32.552098, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO c4:42:02:36:43:36/2016-10-24 15:29:32.552098/-53
+
+MAC: e0:9d:31:6a:60:60, TIMESTAMP: 2016-10-24 15:29:34.703410, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO e0:9d:31:6a:60:60/2016-10-24 15:29:34.703410/-55
+
+MAC: f8:f1:b6:ca:31:0a, TIMESTAMP: 2016-10-24 15:29:39.578833, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO f8:f1:b6:ca:31:0a/2016-10-24 15:29:39.578833/-79
+
+MAC: 70:77:81:ff:4c:71, TIMESTAMP: 2016-10-24 15:29:09.687385, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 70:77:81:ff:4c:71/2016-10-24 15:29:09.687385/-77
+
+[<__main__.Pacote instance at 0xb65ee0a8>]
+MAC: f8:f1:b6:ca:31:0a, TIMESTAMP: 2016-10-24 15:29:39.593059, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO f8:f1:b6:ca:31:0a/2016-10-24 15:29:39.593059/-77
+
+[<__main__.Pacote instance at 0xb4ef75f8>, <__main__.Pacote instance at 0xb4b791e8>, <__main__.Pacote instance at 0xb48f5738>, <__main__.Pacote instance at 0xb4e236c0>, <__main__.Pacote instance at 0xb4eafc10>, <__main__.Pacote instance at 0xb4d08698>, <__main__.Pacote instance at 0xb4887a58>, <__main__.Pacote instance at 0xb4dcffd0>]
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 15:29:44.397910, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO e0:9d:31:75:6d:a8/2016-10-24 15:29:44.397910/-49
+
+MAC: b6:a4:29:e2:46:6f, TIMESTAMP: 2016-10-24 15:30:39.616816, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO b6:a4:29:e2:46:6f/2016-10-24 15:30:39.616816/-55
+
+MAC: e0:9d:31:6a:2a:b0, TIMESTAMP: 2016-10-24 15:30:48.457155, FORCA SINAL: -47 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-24 15:30:48.457155","mac":"e0:9d:31:6a:2a:b0"}}...
+
+MAC: e0:9d:31:61:68:74, TIMESTAMP: 2016-10-24 15:29:49.230117, FORCA SINAL: -81 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-24 15:29:49.230117","mac":"e0:9d:31:61:68:74"}}...
+
+MAC: d8:cf:9c:17:37:a2, TIMESTAMP: 2016-10-24 15:29:45.317753, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 15:29:45.317753","mac":"d8:cf:9c:17:37:a2"}}...
+
+MAC: e0:9d:31:6a:60:60, TIMESTAMP: 2016-10-24 15:30:34.517223, FORCA SINAL: -39 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-24 15:30:34.517223","mac":"e0:9d:31:6a:60:60"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:30:50.950700, FORCA SINAL: -79 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-24 15:30:50.950700","mac":"44:80:eb:f7:a5:ee"}}...
+
+MAC: e0:9d:31:6a:34:68, TIMESTAMP: 2016-10-24 15:30:28.493007, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:30:28.493007","mac":"e0:9d:31:6a:34:68"}}...
+
+[<__main__.Pacote instance at 0xb45d6698>]
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 15:31:21.359344, FORCA SINAL: -256 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-256","timestamp":"2016-10-24 15:31:21.359344","mac":"00:c1:40:94:0d:4b"}}...
+
+[<__main__.Pacote instance at 0xb4583cb0>, <__main__.Pacote instance at 0xb42872b0>, <__main__.Pacote instance at 0xb45df2b0>, <__main__.Pacote instance at 0xb3ec7fa8>, <__main__.Pacote instance at 0xb41b55f8>, <__main__.Pacote instance at 0xb3cf9d28>, <__main__.Pacote instance at 0xb4112e68>, <__main__.Pacote instance at 0xb4473f80>, <__main__.Pacote instance at 0xb4204e68>]
+MAC: e0:9d:31:74:fb:d8, TIMESTAMP: 2016-10-24 15:31:22.345279, FORCA SINAL: -57 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-24 15:31:22.345279","mac":"e0:9d:31:74:fb:d8"}}...
+
+MAC: e0:9d:31:75:6d:a8, TIMESTAMP: 2016-10-24 15:31:44.373848, FORCA SINAL: -59 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-24 15:31:44.373848","mac":"e0:9d:31:75:6d:a8"}}...
+
+MAC: b6:a4:29:e2:46:6f, TIMESTAMP: 2016-10-24 15:31:22.619557, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 15:31:22.619557","mac":"b6:a4:29:e2:46:6f"}}...
+
+MAC: 54:35:30:00:cc:7b, TIMESTAMP: 2016-10-24 15:32:00.182838, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 15:32:00.182838","mac":"54:35:30:00:cc:7b"}}...
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 15:31:47.167762, FORCA SINAL: -51 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-24 15:31:47.167762","mac":"e0:9d:31:6a:34:94"}}...
+
+MAC: f8:cf:c5:77:1c:03, TIMESTAMP: 2016-10-24 15:32:09.770780, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:32:09.770780","mac":"f8:cf:c5:77:1c:03"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:31:51.020800, FORCA SINAL: -73 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-24 15:31:51.020800","mac":"44:80:eb:f7:a5:ee"}}...
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 15:31:28.359286, FORCA SINAL: -256 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-256","timestamp":"2016-10-24 15:31:28.359286","mac":"00:c1:40:94:0d:4b"}}...
+
+MAC: d8:cf:9c:17:37:a2, TIMESTAMP: 2016-10-24 15:31:46.200010, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:31:46.200010","mac":"d8:cf:9c:17:37:a2"}}...
+
+[<__main__.Pacote instance at 0xb5358210>, <__main__.Pacote instance at 0xb3a22f30>, <__main__.Pacote instance at 0xb3a225d0>, <__main__.Pacote instance at 0xb3931878>]
+MAC: f8:cf:c5:77:1c:03, TIMESTAMP: 2016-10-24 15:32:09.780280, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:32:09.780280","mac":"f8:cf:c5:77:1c:03"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:32:36.350725, FORCA SINAL: -77 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-24 15:32:36.350725","mac":"44:80:eb:f7:a5:ee"}}...
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 15:32:36.329295, FORCA SINAL: -256 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-256","timestamp":"2016-10-24 15:32:36.329295","mac":"00:c1:40:94:0d:4b"}}...
+
+MAC: c4:42:02:36:43:36, TIMESTAMP: 2016-10-24 15:32:38.519807, FORCA SINAL: -61 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-24 15:32:38.519807","mac":"c4:42:02:36:43:36"}}...
+
+[<__main__.Pacote instance at 0xb4899120>, <__main__.Pacote instance at 0xb33a6da0>, <__main__.Pacote instance at 0xb36359b8>, <__main__.Pacote instance at 0xb37b9cb0>, <__main__.Pacote instance at 0xb34cc490>, <__main__.Pacote instance at 0xb35c6990>, <__main__.Pacote instance at 0xb389a5f8>, <__main__.Pacote instance at 0xb32756c0>]
+MAC: e4:58:e7:a7:61:7b, TIMESTAMP: 2016-10-24 15:32:38.537553, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 15:32:38.537553","mac":"e4:58:e7:a7:61:7b"}}...
+
+MAC: c0:11:73:b7:a1:04, TIMESTAMP: 2016-10-24 15:33:17.707140, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 15:33:17.707140","mac":"c0:11:73:b7:a1:04"}}...
+
+MAC: 54:35:30:00:cc:7b, TIMESTAMP: 2016-10-24 15:33:04.201529, FORCA SINAL: -47 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-24 15:33:04.201529","mac":"54:35:30:00:cc:7b"}}...
+
+MAC: e0:9d:31:6a:34:94, TIMESTAMP: 2016-10-24 15:32:47.439612, FORCA SINAL: -43 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-24 15:32:47.439612","mac":"e0:9d:31:6a:34:94"}}...
+
+MAC: f8:cf:c5:77:1c:03, TIMESTAMP: 2016-10-24 15:33:10.943280, FORCA SINAL: -55 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-24 15:33:10.943280","mac":"f8:cf:c5:77:1c:03"}}...
+
+MAC: 44:80:eb:f7:a5:ee, TIMESTAMP: 2016-10-24 15:33:06.080851, FORCA SINAL: -75 
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-24 15:33:06.080851","mac":"44:80:eb:f7:a5:ee"}}...
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 15:32:42.519318, FORCAWARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb4f499e0>, <__main__.Pacote instance at 0xb5a76620>, <__main__.Pacote instance at 0xb4fc9ee0>, <__main__.Pacote instance at 0xb4f98418>]
+Verificando conexao
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 18:25:23.161343, FORCA SINAL: -57 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 18:25:23.161343/-57
+
+MAC: 84:10:0d:ba:4f:83, TIMESTAMP: 2016-10-24 18:24:14.540396, FORCA SINAL: -43 
+SALVANDO NO ARQUIVO 84:10:0d:ba:4f:83/2016-10-24 18:24:14.540396/-43
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:25:22.141147, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:25:22.141147/-256
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:25:23.035382, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:25:23.035382/-69
+
+[<__main__.Pacote instance at 0xb40067b0>, <__main__.Pacote instance at 0xb3a16878>, <__main__.Pacote instance at 0xb38be288>, <__main__.Pacote instance at 0xb4110b70>]
+Verificando conexao
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 18:26:25.856226, FORCA SINAL: -45 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 18:26:25.856226/-45
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:26:56.638313, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:26:56.638313/-73
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:27:02.441208, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:27:02.441208/-256
+
+MAC: 94:01:c2:0f:91:eb, TIMESTAMP: 2016-10-24 18:26:20.984847, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 94:01:c2:0f:91:eb/2016-10-24 18:26:20.984847/-63
+
+[<__main__.Pacote instance at 0xb317b990>, <__main__.Pacote instance at 0xb2332490>, <__main__.Pacote instance at 0xb228f738>, <__main__.Pacote instance at 0xb2d9c288>]
+Verificando conexao
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 18:27:49.481563, FORCA SINAL: -45 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 18:27:49.481563/-45
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:29:05.548112, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:29:05.548112/-69
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:29:07.451201, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:29:07.451201/-256
+
+MAC: 94:01:c2:0f:91:eb, TIMESTAMP: 2016-10-24 18:28:09.157452, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 94:01:c2:0f:91:eb/2016-10-24 18:28:09.157452/-71
+
+[<__main__.Pacote instance at 0xb13255f8>, <__main__.Pacote instance at 0xb0d06a80>]
+Verificando conexao
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:30:34.789082, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:30:34.789082/-77
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:31:05.111203, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:31:05.111203/-256
+
+[<__main__.Pacote instance at 0xb08c1e18>, <__main__.Pacote instance at 0xaf7a3f30>, <__main__.Pacote instance at 0xaf52ecb0>, <__main__.Pacote instance at 0xb031a8c8>]
+Verificando conexao
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-24 18:31:31.115666, FORCA SINAL: -45 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-24 18:31:31.115666/-45
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:33:01.536108, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:33:01.536108/-71
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:33:12.531024, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:33:12.531024/-256
+
+MAC: 94:01:c2:0f:91:eb, TIMESTAMP: 2016-10-24 18:32:08.558089, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 94:01:c2:0f:91:eb/2016-10-24 18:32:08.558089/-67
+
+[<__main__.Pacote instance at 0xaf3c2530>, <__main__.Pacote instance at 0xadba8648>, <__main__.Pacote instance at 0xada653c8>, <__main__.Pacote instance at 0xae1c19e0>]
+Verificando conexao
+MAC: 5c:51:88:24:b1:c5, TIMESTAMP: 2016-10-24 18:33:17.106917, FORCA SINAL: -65 
+SALVANDO NO ARQUIVO 5c:51:88:24:b1:c5/2016-10-24 18:33:17.106917/-65
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:35:16.776821, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:35:16.776821/-69
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:35:21.721101, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:35:21.721101/-256
+
+MAC: 94:01:c2:0f:91:eb, TIMESTAMP: 2016-10-24 18:34:48.400854, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 94:01:c2:0f:91:eb/2016-10-24 18:34:48.400854/-71
+
+[<__main__.Pacote instance at 0xace6fcd8>, <__main__.Pacote instance at 0xad4a8a80>, <__main__.Pacote instance at 0xac16a8f0>, <__main__.Pacote instance at 0xac11f238>, <__main__.Pacote instance at 0xac89beb8>]
+Verificando conexao
+MAC: 54:2a:a2:28:c5:6f, TIMESTAMP: 2016-10-24 18:36:23.716186, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 54:2a:a2:28:c5:6f/2016-10-24 18:36:23.716186/-67
+
+MAC: 84:10:0d:ba:4f:83, TIMESTAMP: 2016-10-24 18:35:55.981899, FORCA SINAL: -33 
+SALVANDO NO ARQUIVO 84:10:0d:ba:4f:83/2016-10-24 18:35:55.981899/-33
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:37:20.809463, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:37:20.809463/-71
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:37:21.871013, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:37:21.871013/-256
+
+MAC: 20:a2:e4:61:55:a2, TIMESTAMP: 2016-10-24 18:36:48.618780, FORCA SINAL: -63 
+SALVANDO NO ARQUIVO 20:a2:e4:61:55:a2/2016-10-24 18:36:48.618780/-63
+
+[<__main__.Pacote instance at 0xab35cee0>, <__main__.Pacote instance at 0xaadfbc60>, <__main__.Pacote instance at 0xabdc78c8>, <__main__.Pacote instance at 0xaac07e90>, <__main__.Pacote instance at 0xaa681af8>]
+Verificando conexao
+MAC: 84:38:38:d3:d8:e1, TIMESTAMP: 2016-10-24 18:38:32.296419, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 84:38:38:d3:d8:e1/2016-10-24 18:38:32.296419/-79
+
+MAC: b8:09:8a:a1:ce:b5, TIMESTAMP: 2016-10-24 18:38:56.378943, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO b8:09:8a:a1:ce:b5/2016-10-24 18:38:56.378943/-77
+
+MAC: 84:10:0d:ba:4f:83, TIMESTAMP: 2016-10-24 18:37:35.991684, FORCA SINAL: -33 
+SALVANDO NO ARQUIVO 84:10:0d:ba:4f:83/2016-10-24 18:37:35.991684/-33
+
+MAC: d0:6f:4a:84:62:9b, TIMESTAMP: 2016-10-24 18:39:03.706506, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO d0:6f:4a:84:62:9b/2016-10-24 18:39:03.706506/-69
+
+MAC: 00:c1:40:94:0d:4b, TIMESTAMP: 2016-10-24 18:39:27.160992, FORCA SINAL: -256 
+SALVANDO NO ARQUIVO 00:c1:40:94:0d:4b/2016-10-24 18:39:27.160992/-256
+
+Traceback (most recent call last):
+  File "/home/pi/projetoRSI/capturaScapy.py", line 123, in <module>
+    sniff(prn = PacketHandler)
+  File "/usr/lib/python2.7/dist-packages/scapy/sendrecv.py", line 586, in sniff
+    r = prn(p)
+  File "/home/pi/projetoRSI/capturaScapy.py", line 102, in PacketHandler
+    sendData(captured.values())
+  File "/home/pi/projetoRSI/capturaScapy.py", line 61, in sendData
+    subprocess.call(["sudo", "/sbin/ifdown", "wlan0"])
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1231, in _execute_child
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory
+WARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb624ef30>, <__main__.Pacote instance at 0xb62d0850>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:47:51.330024","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-24 19:49:27.207095","mac":"54:a0:50:ef:b4:50"}}...
+
+[<__main__.Pacote instance at 0xb5b077b0>, <__main__.Pacote instance at 0xb60e09b8>, <__main__.Pacote instance at 0xb585dad0>, <__main__.Pacote instance at 0xb57d41c0>, <__main__.Pacote instance at 0xb5f245a8>, <__main__.Pacote instance at 0xb546cb70>, <__main__.Pacote instance at 0xb4bfc508>, <__main__.Pacote instance at 0xb53e1648>, <__main__.Pacote instance at 0xb549c738>, <__main__.Pacote instance at 0xb60b9c60>, <__main__.Pacote instance at 0xb4eadf80>, <__main__.Pacote instance at 0xb4c61af8>, <__main__.Pacote instance at 0xb498d580>, <__main__.Pacote instance at 0xb5adce90>, <__main__.Pacote instance at 0xb53e9828>, <__main__.Pacote instance at 0xb5ba2f80>, <__main__.Pacote instance at 0xb486ee90>, <__main__.Pacote instance at 0xb5e8fe18>, <__main__.Pacote instance at 0xb56a75a8>, <__main__.Pacote instance at 0xb5928990>, <__main__.Pacote instance at 0xb4b675a8>, <__main__.Pacote instance at 0xb5ee0bc0>, <__main__.Pacote instance at 0xb4b27760>, <__main__.Pacote instance at 0xb4a5d6c0>, <__main__.Pacote instance at 0xb4c7e300>, <__main__.Pacote instance at 0xb5224cb0>, <__main__.Pacote instance at 0xb55a42b0>, <__main__.Pacote instance at 0xb608bda0>, <__main__.Pacote instance at 0xb5d95eb8>, <__main__.Pacote instance at 0xb559cd78>, <__main__.Pacote instance at 0xb4ed7e68>, <__main__.Pacote instance at 0xb4a2b3c8>, <__main__.Pacote instance at 0xb4a218c8>, <__main__.Pacote instance at 0xb511a3c8>, <__main__.Pacote instance at 0xb481e7d8>, <__main__.Pacote instance at 0xb5cb1878>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:48:21.801215","mac":"fa:dd:e2:c2:5c:f0"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:47:53.043581","mac":"ec:9b:f3:67:35:86"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:48:34.713633","mac":"9c:99:a0:d0:e1:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:48:36.870951","mac":"84:8e:df:0d:be:ad"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:48:04.286211","mac":"9c:99:a0:d1:60:bb"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:48:51.520794","mac":"84:63:d6:ae:31:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:49:30.646681","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:48:53.038636","mac":"0e:2d:58:70:60:d6"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:48:52.041582","mac":"02:ac:6e:de:9a:ce"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:48:00.002683","mac":"e2:00:cf:cc:1f:15"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:49:17.529056","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 11:49:26.668818","mac":"88:79:7e:8c:14:91"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:49:40.595394","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:48:22.884970","mac":"9e:d6:b9:18:65:9e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:48:53.190904","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:48:18.997995","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:49:45.162651","mac":"a8:7c:01:28:18:ce"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 11:48:08.183091","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:48:41.161467","mac":"9c:99:a0:d1:77:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:48:28.385541","mac":"e0:9d:31:6a:34:94"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:49:33.082054","mac":"e0:9d:31:74:fe:b8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-26 11:48:05.018223","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:49:34.615996","mac":"2c:29:97:6a:d7:68"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:49:38.182566","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:49:27.522792","mac":"22:3d:49:e7:fa:76"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:49:03.131525","mac":"90:68:c3:f2:39:06"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-26 11:48:44.790118","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:48:00.917165","mac":"5c:e0:c5:6d:22:4d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:48:12.783333","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:48:47.428980","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:49:18.037422","mac":"d0:4f:7e:d7:60:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:49:37.727959","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:49:37.712961","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:49:09.576190","mac":"d2:82:56:3c:8d:3f"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-26 11:49:46.500563","mac":"60:67:20:f5:70:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:48:15.642720","mac":"54:a0:50:0a:7e:e4"}}...
+
+[<__main__.Pacote instance at 0xb422ea80>, <__main__.Pacote instance at 0xb4645f58>, <__main__.Pacote instance at 0xb3a57cd8>, <__main__.Pacote instance at 0xb3e09d28>, <__main__.Pacote instance at 0xb4414210>, <__main__.Pacote instance at 0xb475a698>, <__main__.Pacote instance at 0xb43d0210>, <__main__.Pacote instance at 0xb3552198>, <__main__.Pacote instance at 0xb34cbc60>, <__main__.Pacote instance at 0xb3e91e18>, <__main__.Pacote instance at 0xb33c9ee0>, <__main__.Pacote instance at 0xb47306c0>, <__main__.Pacote instance at 0xb3b6e850>, <__main__.Pacote instance at 0xb351c440>, <__main__.Pacote instance at 0xb38dde68>, <__main__.Pacote instance at 0xb372f6e8>, <__main__.Pacote instance at 0xb3d40cd8>, <__main__.Pacote instance at 0xb3b1b5a8>, <__main__.Pacote instance at 0xb361d238>, <__main__.Pacote instance at 0xb4859d78>, <__main__.Pacote instance at 0xb37ffe90>, <__main__.Pacote instance at 0xb424cd78>, <__main__.Pacote instance at 0xb36efa30>, <__main__.Pacote instance at 0xb3474b48>, <__main__.Pacote instance at 0xb4833238>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:50:42.324725","mac":"08:74:02:d2:e7:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:50:25.601460","mac":"1e:4f:4e:dd:67:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:51:20.224830","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:51:00.162948","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:50:34.918116","mac":"f8:e0:79:dc:f1:92"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 11:49:53.983990","mac":"0c:d2:92:d4:a9:04"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:50:35.759724","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:51:41.072213","mac":"1c:af:05:c8:67:38"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:51:44.061933","mac":"9e:80:10:47:73:ef"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:50:57.905495","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:51:51.023025","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:49:53.188936","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:51:11.001001","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:51:42.362552","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:51:28.393354","mac":"e0:9d:31:6a:34:94"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:51:33.051044","mac":"e0:9d:31:74:fe:b8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 11:51:04.046158","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:51:15.630272","mac":"2c:29:97:6a:d7:68"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:51:37.464225","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:49:48.658344","mac":"90:68:c3:f2:39:06"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:51:30.690899","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:50:43.112353","mac":"88:79:7e:b2:95:49"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:51:34.169496","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:51:44.789110","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-37","timestamp":"2016-10-26 11:49:46.662005","mac":"60:67:20:f5:70:24"}}...
+
+[<__main__.Pacote instance at 0xb30ad508>, <__main__.Pacote instance at 0xb27b5af8>, <__main__.Pacote instance at 0xb3148710>, <__main__.Pacote instance at 0xb25bbfa8>, <__main__.Pacote instance at 0xb2705940>, <__main__.Pacote instance at 0xb2badb48>, <__main__.Pacote instance at 0xb2699418>, <__main__.Pacote instance at 0xb31bbe18>, <__main__.Pacote instance at 0xb3186760>, <__main__.Pacote instance at 0xb26918f0>, <__main__.Pacote instance at 0xb21a4440>, <__main__.Pacote instance at 0xb22b44e0>, <__main__.Pacote instance at 0xb2ac6c88>, <__main__.Pacote instance at 0xb2c6b378>, <__main__.Pacote instance at 0xb2704558>, <__main__.Pacote instance at 0xb310c198>, <__main__.Pacote instance at 0xb21fc760>, <__main__.Pacote instance at 0xb23fdfd0>, <__main__.Pacote instance at 0xb2593ee0>, <__main__.Pacote instance at 0xb2beba30>, <__main__.Pacote instance at 0xb2958d28>, <__main__.Pacote instance at 0xb2e667b0>, <__main__.Pacote instance at 0xb32c8fd0>, <__main__.Pacote instance at 0xb3081260>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:52:45.160467","mac":"3c:83:75:65:95:1c"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:53:25.253289","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:52:43.770270","mac":"ea:af:34:4e:03:8c"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:53:32.247260","mac":"7a:dd:1e:64:6d:a2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:53:28.731133","mac":"14:1a:a3:ca:66:63"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:53:05.868463","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:53:30.554505","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:52:41.303951","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:52:42.638888","mac":"08:8c:2c:4b:ca:1a"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:53:30.525929","mac":"9c:99:a0:d1:77:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:53:49.742033","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:53:46.138300","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 11:53:10.553561","mac":"40:78:6a:28:99:55"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 11:53:02.966760","mac":"0c:d2:92:d4:a9:04"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:53:28.639432","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 11:52:44.778601","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:53:49.343624","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:53:41.664539","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:53:33.634523","mac":"00:61:71:3b:36:b7"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:53:04.794973","mac":"88:79:7e:b9:a5:ca"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:53:18.102956","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:52:54.210009","mac":"58:a2:b5:dd:71:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:51:54.283850","mac":"e8:91:20:4f:53:91"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-26 11:52:46.763251","mac":"60:67:20:f5:70:24"}}...
+
+[<__main__.Pacote instance at 0xb1ecb918>, <__main__.Pacote instance at 0xb1fbd670>, <__main__.Pacote instance at 0xb0df04b8>, <__main__.Pacote instance at 0xb0f04508>, <__main__.Pacote instance at 0xb11da4b8>, <__main__.Pacote instance at 0xb12de030>, <__main__.Pacote instance at 0xb1ebde68>, <__main__.Pacote instance at 0xb0d9da80>, <__main__.Pacote instance at 0xb1861f30>, <__main__.Pacote instance at 0xb0db0918>, <__main__.Pacote instance at 0xb146f530>, <__main__.Pacote instance at 0xb0c86df0>, <__main__.Pacote instance at 0xb1cb29e0>, <__main__.Pacote instance at 0xb1ba6eb8>, <__main__.Pacote instance at 0xb1564b98>, <__main__.Pacote instance at 0xb1043580>, <__main__.Pacote instance at 0xb143dd28>, <__main__.Pacote instance at 0xb0d37df0>, <__main__.Pacote instance at 0xb0d5ee90>, <__main__.Pacote instance at 0xb1552738>, <__main__.Pacote instance at 0xb14225f8>, <__main__.Pacote instance at 0xb1e1beb8>, <__main__.Pacote instance at 0xb1086378>, <__main__.Pacote instance at 0xb1dd3468>, <__main__.Pacote instance at 0xb0e03eb8>, <__main__.Pacote instance at 0xb1f06df0>, <__main__.Pacote instance at 0xb0d30b70>, <__main__.Pacote instance at 0xb199fc38>, <__main__.Pacote instance at 0xb0bf5cb0>, <__main__.Pacote instance at 0xb0da0d00>, <__main__.Pacote instance at 0xb2099aa8>, <__main__.Pacote instance at 0xb0efd530>, <__main__.Pacote instance at 0xb1613fd0>, <__main__.Pacote instance at 0xb0d5e350>, <__main__.Pacote instance at 0xb1499940>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:54:25.287203","mac":"08:74:02:d2:e7:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:53:58.806565","mac":"9c:99:a0:d1:60:bb"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:55:44.745510","mac":"f8:95:c7:ae:70:20"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:55:41.678101","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:55:26.090226","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:55:20.563421","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:54:25.041655","mac":"9e:2d:64:f2:ba:d1"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:55:47.242424","mac":"7a:dd:1e:64:6d:a2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:54:56.444572","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:55:45.860852","mac":"14:1a:a3:ca:66:63"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:55:14.861559","mac":"1c:56:fe:50:e5:aa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:55:50.738000","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:54:33.802920","mac":"4a:05:42:84:d0:1b"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:54:37.844708","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:55:11.148034","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:55:32.006655","mac":"9c:99:a0:d1:77:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:55:16.237202","mac":"a0:39:f7:50:3e:3e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:55:47.557661","mac":"84:10:0d:d0:3f:77"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:55:46.544984","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:55:12.693834","mac":"40:78:6a:28:99:55"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 11:55:16.039117","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:54:29.502853","mac":"86:31:54:2c:d9:79"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:55:30.383618","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:54:30.381989","mac":"d0:4f:7e:d7:60:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:55:44.946910","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:54:24.475780","mac":"54:a0:50:0a:7e:e4"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:55:47.457760","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:54:49.663882","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:55:52.236993","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:55:45.497046","mac":"4e:85:0d:84:50:28"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:53:56.248071","mac":"00:61:71:3b:36:b7"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:55:41.531873","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:55:09.735241","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:55:46.509916","mac":"60:67:20:f5:70:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:55:15.869124","mac":"5c:e0:c5:6d:22:4d"}}...
+
+[<__main__.Pacote instance at 0xb0bd3c38>, <__main__.Pacote instance at 0xb03c8210>, <__main__.Pacote instance at 0xb019f7d8>, <__main__.Pacote instance at 0xaf8ec8a0>, <__main__.Pacote instance at 0xb043b7b0>, <__main__.Pacote instance at 0xaff91990>, <__main__.Pacote instance at 0xb051ea30>, <__main__.Pacote instance at 0xafd94bc0>, <__main__.Pacote instance at 0xb098d288>, <__main__.Pacote instance at 0xaf845ee0>, <__main__.Pacote instance at 0xaf868418>, <__main__.Pacote instance at 0xb0951558>, <__main__.Pacote instance at 0xafd67440>, <__main__.Pacote instance at 0xafa413a0>, <__main__.Pacote instance at 0xb02d6ee0>, <__main__.Pacote instance at 0xafaeabc0>, <__main__.Pacote instance at 0xaf9fc260>, <__main__.Pacote instance at 0xafedfa58>, <__main__.Pacote instance at 0xaf6a3a08>, <__main__.Pacote instance at 0xafc4aee0>, <__main__.Pacote instance at 0xaffeec10>, <__main__.Pacote instance at 0xb00519e0>, <__main__.Pacote instance at 0xb06abdf0>, <__main__.Pacote instance at 0xb07466c0>, <__main__.Pacote instance at 0xafd4bee0>, <__main__.Pacote instance at 0xafa71508>, <__main__.Pacote instance at 0xaf9f3f08>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:55:53.208233","mac":"9c:99:a0:d0:e1:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 11:57:04.004652","mac":"84:63:d6:ae:31:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:57:10.572659","mac":"1e:4f:4e:dd:67:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 11:57:51.206178","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 11:57:02.081256","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:57:20.592099","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:56:56.418805","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:57:33.803032","mac":"68:c4:4d:de:dd:ca"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:56:37.874601","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 11:57:54.930855","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:57:53.193333","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:56:38.993623","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:57:32.472307","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:57:45.659247","mac":"1c:56:fe:ab:ba:ed"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:57:08.282092","mac":"5c:51:88:33:08:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:57:43.484470","mac":"e0:98:61:bb:95:fc"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:57:46.566167","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-26 11:57:22.038996","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 11:58:01.012607","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:57:39.346962","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:57:17.908438","mac":"5c:e0:c5:6d:22:4d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:57:16.824638","mac":"00:56:cd:ee:2c:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:56:50.256092","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 11:56:48.398071","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:57:34.830880","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:57:44.941398","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-37","timestamp":"2016-10-26 11:57:46.508331","mac":"60:67:20:f5:70:24"}}...
+
+[<__main__.Pacote instance at 0xae604f80>, <__main__.Pacote instance at 0xaebb9698>, <__main__.Pacote instance at 0xaf23b648>, <__main__.Pacote instance at 0xae34e468>, <__main__.Pacote instance at 0xae5bb3f0>, <__main__.Pacote instance at 0xaeb40508>, <__main__.Pacote instance at 0xaed02828>, <__main__.Pacote instance at 0xaf5c0cb0>, <__main__.Pacote instance at 0xaee42e90>, <__main__.Pacote instance at 0xae729fd0>, <__main__.Pacote instance at 0xae598dc8>, <__main__.Pacote instance at 0xaeabb260>, <__main__.Pacote instance at 0xaeb0bc60>, <__main__.Pacote instance at 0xaed7a5f8>, <__main__.Pacote instance at 0xae5a3418>, <__main__.Pacote instance at 0xae6dddc8>, <__main__.Pacote instance at 0xae58cd50>, <__main__.Pacote instance at 0xae85c800>, <__main__.Pacote instance at 0xaf699eb8>, <__main__.Pacote instance at 0xaf16a8a0>, <__main__.Pacote instance at 0xaf202508>, <__main__.Pacote instance at 0xaf2c4468>, <__main__.Pacote instance at 0xaeaf2c38>, <__main__.Pacote instance at 0xae9d4968>, <__main__.Pacote instance at 0xaedf3a30>, <__main__.Pacote instance at 0xae4868f0>, <__main__.Pacote instance at 0xae5df940>, <__main__.Pacote instance at 0xae41e1c0>, <__main__.Pacote instance at 0xae71ac88>, <__main__.Pacote instance at 0xaf3e1fd0>, <__main__.Pacote instance at 0xae5b5530>, <__main__.Pacote instance at 0xae446210>, <__main__.Pacote instance at 0xae379a08>, <__main__.Pacote instance at 0xaeb17508>, <__main__.Pacote instance at 0xaea6f6e8>, <__main__.Pacote instance at 0xae757260>, <__main__.Pacote instance at 0xae70b468>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:59:51.223167","mac":"08:74:02:d2:e7:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:59:25.559950","mac":"1e:4f:4e:dd:67:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:58:57.727708","mac":"f8:95:c7:ae:70:20"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:00:02.248929","mac":"68:c4:4d:b4:5f:53"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:59:51.864216","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:59:27.680867","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:59:20.562523","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 11:58:06.310531","mac":"f8:e0:79:dc:f1:92"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:15.401974","mac":"e0:98:61:bb:95:fc"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 11:59:44.518395","mac":"66:88:b9:8e:13:8d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-83","timestamp":"2016-10-26 11:59:53.335739","mac":"08:8c:2c:4b:ca:1a"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:59:29.325020","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:28.847955","mac":"18:89:5b:14:9e:aa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 11:59:17.905357","mac":"40:2b:a1:57:fb:cf"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:59:51.587424","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 11:59:48.378038","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:59:53.202670","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 11:59:40.410488","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 11:58:02.431148","mac":"a8:7c:01:28:18:ce"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-26 11:59:01.275045","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:58:59.053878","mac":"64:bc:0c:3b:47:37"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:58:55.703571","mac":"9c:99:a0:d1:77:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 11:59:28.234706","mac":"48:50:73:6c:b5:10"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:59:33.055010","mac":"e0:9d:31:74:fe:b8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 11:59:15.972145","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:59:56.442059","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:50.765973","mac":"1a:af:18:d5:a3:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 11:59:56.923756","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:46.760216","mac":"1c:56:fe:ab:ba:ed"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:58:47.962907","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:51.810436","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 11:59:57.796142","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:00:01.426501","mac":"32:b8:95:cb:48:fd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 11:59:28.963518","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 11:59:29.915221","mac":"6a:17:c1:47:26:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 11:59:45.284768","mac":"e8:91:20:4f:53:91"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 11:59:46.518664","mac":"60:67:20:f5:70:24"}}...
+
+[<__main__.Pacote instance at 0xae14fb70>, <__main__.Pacote instance at 0xad4c3ad0>, <__main__.Pacote instance at 0xad398490>, <__main__.Pacote instance at 0xad54f918>, <__main__.Pacote instance at 0xae1dfda0>, <__main__.Pacote instance at 0xad31b508>, <__main__.Pacote instance at 0xad7e8a30>, <__main__.Pacote instance at 0xad735620>, <__main__.Pacote instance at 0xad1d8940>, <__main__.Pacote instance at 0xad1b76c0>, <__main__.Pacote instance at 0xad77c4e0>, <__main__.Pacote instance at 0xad76caf8>, <__main__.Pacote instance at 0xad0743c8>, <__main__.Pacote instance at 0xad4b0da0>, <__main__.Pacote instance at 0xad9732d8>, <__main__.Pacote instance at 0xadc87878>, <__main__.Pacote instance at 0xada00e40>, <__main__.Pacote instance at 0xadf49bc0>, <__main__.Pacote instance at 0xadf86cd8>, <__main__.Pacote instance at 0xadabf878>, <__main__.Pacote instance at 0xad97a620>, <__main__.Pacote instance at 0xad1681c0>, <__main__.Pacote instance at 0xae272be8>, <__main__.Pacote instance at 0xad27caf8>, <__main__.Pacote instance at 0xad3bd738>, <__main__.Pacote instance at 0xad6cc698>, <__main__.Pacote instance at 0xae291f30>, <__main__.Pacote instance at 0xad6bf288>, <__main__.Pacote instance at 0xadb37d50>, <__main__.Pacote instance at 0xad187648>, <__main__.Pacote instance at 0xad7c3d78>, <__main__.Pacote instance at 0xadbcce40>, <__main__.Pacote instance at 0xad234800>, <__main__.Pacote instance at 0xad0748a0>, <__main__.Pacote instance at 0xad2aedf0>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 12:00:50.255333","mac":"2c:29:97:6a:d7:68"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:01:42.037822","mac":"08:74:02:d2:e7:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:01:48.925454","mac":"16:d3:01:f5:7a:e9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:01:40.542764","mac":"1e:4f:4e:dd:67:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:00:06.788469","mac":"30:cb:f8:0a:7d:95"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:01:51.211443","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 12:01:28.609374","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:01:31.217097","mac":"88:79:7e:24:7d:ae"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:01:56.618799","mac":"64:bc:0c:3b:47:37"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:01:56.443059","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:01:30.293806","mac":"14:1a:a3:ca:66:63"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:01:30.219858","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:02:01.550546","mac":"f2:5d:f9:06:f4:09"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:01:41.835065","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:01:22.299985","mac":"40:78:6a:4f:9a:55"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:01:09.841387","mac":"68:c4:4d:de:dd:ca"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 12:01:19.924233","mac":"1c:af:05:c8:67:38"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:00:59.498250","mac":"5c:c9:d3:63:82:66"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:00:58.566669","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-83","timestamp":"2016-10-26 12:01:16.917425","mac":"ac:18:26:07:d1:5c"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:01:22.554189","mac":"f8:e0:79:dc:f1:92"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:01:56.971707","mac":"38:d4:0b:8c:3a:37"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:00:05.205210","mac":"32:b8:95:cb:48:fd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:01:53.716063","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:01:46.559166","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-26 12:01:34.055669","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:00:05.764104","mac":"1a:af:18:d5:a3:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:01:33.994268","mac":"4a:8f:fb:12:de:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:01:15.147002","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:01:57.576155","mac":"d0:4f:7e:d7:60:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:01:29.728778","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-47","timestamp":"2016-10-26 12:01:13.521702","mac":"54:a0:50:0a:7e:e4"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:01:54.323822","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:02:01.586653","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:01:51.550658","mac":"c4:42:02:31:47:fa"}}...
+
+[<__main__.Pacote instance at 0xabf17418>, <__main__.Pacote instance at 0xacf22cb0>, <__main__.Pacote instance at 0xac194f08>, <__main__.Pacote instance at 0xac2c55a8>, <__main__.Pacote instance at 0xac42bb98>, <__main__.Pacote instance at 0xac66deb8>, <__main__.Pacote instance at 0xac3679b8>, <__main__.Pacote instance at 0xabe57d78>, <__main__.Pacote instance at 0xacf43d78>, <__main__.Pacote instance at 0xacd25d00>, <__main__.Pacote instance at 0xacb0ee40>, <__main__.Pacote instance at 0xac0e1918>, <__main__.Pacote instance at 0xac0e1f80>, <__main__.Pacote instance at 0xabeceb48>, <__main__.Pacote instance at 0xad03e558>, <__main__.Pacote instance at 0xac87aa08>, <__main__.Pacote instance at 0xacc41940>, <__main__.Pacote instance at 0xac958e18>, <__main__.Pacote instance at 0xacd15300>, <__main__.Pacote instance at 0xac4f1c60>, <__main__.Pacote instance at 0xabbddb48>, <__main__.Pacote instance at 0xabd8c918>, <__main__.Pacote instance at 0xacbdc4b8>, <__main__.Pacote instance at 0xac4cfc10>, <__main__.Pacote instance at 0xabd95ad0>, <__main__.Pacote instance at 0xac1c9580>, <__main__.Pacote instance at 0xaccc7738>, <__main__.Pacote instance at 0xac7d5f08>, <__main__.Pacote instance at 0xac04d9b8>, <__main__.Pacote instance at 0xacce88c8>, <__main__.Pacote instance at 0xac7c3788>, <__main__.Pacote instance at 0xacd417d8>, <__main__.Pacote instance at 0xabe90c38>, <__main__.Pacote instance at 0xac5ae738>, <__main__.Pacote instance at 0xac7f8800>, <__main__.Pacote instance at 0xac35f2d8>, <__main__.Pacote instance at 0xac8e7c60>, <__main__.Pacote instance at 0xac309bc0>, <__main__.Pacote instance at 0xabfea2d8>, <__main__.Pacote instance at 0xaba9ca30>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:03:52.122790","mac":"2c:29:97:6a:d7:68"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:02:06.842335","mac":"16:d3:01:f5:7a:e9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:03:41.310532","mac":"f8:e0:79:dc:f1:92"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:03:36.377055","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:03:29.885337","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:03:20.578527","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:03:33.114362","mac":"88:79:7e:24:7d:ae"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 12:03:56.452283","mac":"24:fd:52:be:de:da"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:02:07.068512","mac":"64:bc:0c:3b:47:37"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-35","timestamp":"2016-10-26 12:02:48.056836","mac":"84:10:0d:d0:3f:77"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:03:00.669980","mac":"14:1a:a3:ca:66:63"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:03:42.702109","mac":"f2:5d:f9:06:f4:09"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:03:42.758628","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:03:53.080016","mac":"18:89:5b:14:9e:aa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:02:02.828280","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:03:09.814921","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:02:53.188616","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:03:07.370542","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:02:50.146272","mac":"6c:94:f8:c6:a5:e5"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:03:26.358461","mac":"08:8c:2c:4b:ca:1a"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:04:06.200451","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:03:59.011930","mac":"1c:56:fe:ab:ba:ed"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:02:56.448770","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:03:28.242768","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 12:03:59.326011","mac":"0c:d2:92:d4:a9:04"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 12:03:40.049342","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:02:50.868498","mac":"ac:36:13:33:7c:c6"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:03:13.425980","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:03:46.287704","mac":"d0:4f:7e:d7:60:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 12:02:49.391581","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:03:13.207075","mac":"5c:e0:c5:6d:22:4d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:02:48.576460","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:03:55.201998","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:03:23.881396","mac":"be:d2:a9:99:53:25"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:03:11.616699","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:03:33.045024","mac":"e0:9d:31:74:fe:b8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:03:07.644345","mac":"10:d5:42:19:f7:ae"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:03:35.323672","mac":"74:23:44:4b:ce:1e"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 12:03:46.691542","mac":"60:67:20:f5:70:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:04:10.774090","mac":"90:c1:15:cd:5f:9c"}}...
+
+[<__main__.Pacote instance at 0xab58fd00>, <__main__.Pacote instance at 0xab504378>, <__main__.Pacote instance at 0xaa757850>, <__main__.Pacote instance at 0xab2c2238>, <__main__.Pacote instance at 0xaaf30a80>, <__main__.Pacote instance at 0xaa8253c8>, <__main__.Pacote instance at 0xaa88c6c0>, <__main__.Pacote instance at 0xaae7cc60>, <__main__.Pacote instance at 0xaacb4cd8>, <__main__.Pacote instance at 0xab504968>, <__main__.Pacote instance at 0xab404490>, <__main__.Pacote instance at 0xaaba0418>, <__main__.Pacote instance at 0xaaadfb98>, <__main__.Pacote instance at 0xaaf6c8c8>, <__main__.Pacote instance at 0xab0f3dc8>, <__main__.Pacote instance at 0xaa750288>, <__main__.Pacote instance at 0xaacb9b20>, <__main__.Pacote instance at 0xab0ba6c0>, <__main__.Pacote instance at 0xab9fc2d8>, <__main__.Pacote instance at 0xab604da0>, <__main__.Pacote instance at 0xab936f80>, <__main__.Pacote instance at 0xaab7f580>, <__main__.Pacote instance at 0xaab67288>, <__main__.Pacote instance at 0xaac8ca58>, <__main__.Pacote instance at 0xaaa714b8>, <__main__.Pacote instance at 0xab321eb8>, <__main__.Pacote instance at 0xaaf8e350>, <__main__.Pacote instance at 0xab916c10>, <__main__.Pacote instance at 0xaa8f4378>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 12:05:09.576905","mac":"24:fd:52:be:de:da"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:05:11.435129","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:06:12.550775","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 12:05:20.587254","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:05:34.088166","mac":"88:79:7e:24:7d:ae"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:06:08.796208","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-39","timestamp":"2016-10-26 12:06:08.352852","mac":"0c:d2:92:d4:a9:04"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:05:37.150682","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:05:43.696712","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:05:11.542140","mac":"5c:c9:d3:63:82:66"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:05:15.386835","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 12:05:48.274206","mac":"da:a1:19:81:67:c6"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-59","timestamp":"2016-10-26 12:05:53.255585","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:05:33.005499","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-83","timestamp":"2016-10-26 12:05:27.439665","mac":"30:5a:3a:dd:c9:43"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:06:12.443922","mac":"08:8c:2c:4b:ca:1a"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 12:05:43.728364","mac":"60:d9:c7:09:d7:08"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:05:28.439185","mac":"e0:9d:31:6a:34:94"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:04:12.389965","mac":"fe:97:3b:0e:00:fb"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:05:07.623426","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:04:14.739917","mac":"14:1a:a3:ca:66:63"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:05:50.232733","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 12:05:49.376644","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:05:45.454988","mac":"90:c1:15:cd:5f:9c"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:05:56.379413","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:05:17.717792","mac":"be:d2:a9:99:53:25"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 12:05:33.537872","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:04:16.957436","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:06:05.698321","mac":"40:0e:85:5c:2c:4c"}}...
+
+[<__main__.Pacote instance at 0xa98c77d8>, <__main__.Pacote instance at 0xa92f3eb8>, <__main__.Pacote instance at 0xa9ad34b8>, <__main__.Pacote instance at 0xa9df2b20>, <__main__.Pacote instance at 0xaa55c3f0>, <__main__.Pacote instance at 0xaa15ee18>, <__main__.Pacote instance at 0xaa2faf30>, <__main__.Pacote instance at 0xa9f78fa8>, <__main__.Pacote instance at 0xa919c468>, <__main__.Pacote instance at 0xa9801968>, <__main__.Pacote instance at 0xaa08b4e0>, <__main__.Pacote instance at 0xaa1b2418>, <__main__.Pacote instance at 0xa9283c88>, <__main__.Pacote instance at 0xa90f45d0>, <__main__.Pacote instance at 0xa9ad39e0>, <__main__.Pacote instance at 0xaa614e90>, <__main__.Pacote instance at 0xaa611f80>, <__main__.Pacote instance at 0xa9611238>, <__main__.Pacote instance at 0xa920ffa8>, <__main__.Pacote instance at 0xa939ae40>, <__main__.Pacote instance at 0xaa3804e0>, <__main__.Pacote instance at 0xa964ba30>, <__main__.Pacote instance at 0xa99b0e18>, <__main__.Pacote instance at 0xa9b3bc60>, <__main__.Pacote instance at 0xaa49a990>, <__main__.Pacote instance at 0xaa58ea30>, <__main__.Pacote instance at 0xa9d52968>, <__main__.Pacote instance at 0xaa2a5288>, <__main__.Pacote instance at 0xaa550a08>, <__main__.Pacote instance at 0xa9205620>, <__main__.Pacote instance at 0xa9973e90>, <__main__.Pacote instance at 0xa9791fd0>, <__main__.Pacote instance at 0xa919f4e0>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:07:41.601737","mac":"1c:af:05:c8:67:38"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:08:06.154811","mac":"9c:99:a0:d1:60:bb"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:07:33.659337","mac":"84:10:0d:26:15:f3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:07:17.932328","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:06:20.569241","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-73","timestamp":"2016-10-26 12:07:02.759779","mac":"f8:e0:79:dc:f1:92"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:06:56.448840","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:07:11.340715","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:08:12.722728","mac":"f2:5d:f9:06:f4:09"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:07:44.628995","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:07:06.041583","mac":"e0:9d:31:6a:60:59"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:07:01.868781","mac":"e0:9d:31:6a:60:58"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:08:08.282447","mac":"a4:70:d6:f8:17:07"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:08:14.213411","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:07:33.737874","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:06:16.740888","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 12:06:16.675042","mac":"08:8c:2c:4b:ca:1a"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:07:53.131897","mac":"18:89:5b:14:9e:aa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:08:10.758651","mac":"f8:cf:c5:9b:91:c3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:08:04.902751","mac":"40:78:6a:b8:16:e8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:06:53.124009","mac":"40:78:6a:28:99:55"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-43","timestamp":"2016-10-26 12:07:52.032699","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:07:36.956965","mac":"e0:9d:31:75:0f:30"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:07:31.314658","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-26 12:06:49.376922","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:06:19.481399","mac":"5c:e0:c5:6d:22:4d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:07:23.263967","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:06:57.204247","mac":"78:59:5e:7c:ea:b3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:06:20.489064","mac":"be:d2:a9:99:53:25"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:08:10.684396","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-57","timestamp":"2016-10-26 12:07:38.355810","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 12:07:46.504805","mac":"60:67:20:f5:70:24"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:08:10.907687","mac":"54:a0:50:0a:7e:e4"}}...
+
+[<__main__.Pacote instance at 0xa87f6990>, <__main__.Pacote instance at 0xa8c2ac88>, <__main__.Pacote instance at 0xa8c52f80>, <__main__.Pacote instance at 0xa85fa508>, <__main__.Pacote instance at 0xa83cd800>, <__main__.Pacote instance at 0xa8f911c0>, <__main__.Pacote instance at 0xa8bffb98>, <__main__.Pacote instance at 0xa903b788>, <__main__.Pacote instance at 0xa844e238>, <__main__.Pacote instance at 0xa9106378>, <__main__.Pacote instance at 0xa87bf508>, <__main__.Pacote instance at 0xa8b2cc10>, <__main__.Pacote instance at 0xa873ec10>, <__main__.Pacote instance at 0xa8e5f508>, <__main__.Pacote instance at 0xa8b09558>, <__main__.Pacote instance at 0xa8f8fdc8>, <__main__.Pacote instance at 0xa8d739b8>, <__main__.Pacote instance at 0xa8d9de18>, <__main__.Pacote instance at 0xa8961cb0>, <__main__.Pacote instance at 0xa8dc55f8>, <__main__.Pacote instance at 0xa88cd918>, <__main__.Pacote instance at 0xa8787d28>, <__main__.Pacote instance at 0xa8cd2a30>, <__main__.Pacote instance at 0xa88cdc38>, <__main__.Pacote instance at 0xa8775c88>, <__main__.Pacote instance at 0xa903aeb8>, <__main__.Pacote instance at 0xa8832440>, <__main__.Pacote instance at 0xa8db65d0>, <__main__.Pacote instance at 0xa8c9e4e0>, <__main__.Pacote instance at 0xa8a67af8>, <__main__.Pacote instance at 0xa87ec5a8>, <__main__.Pacote instance at 0xa8a4d468>, <__main__.Pacote instance at 0xa86e3710>, <__main__.Pacote instance at 0xa8c34e68>]
+Verificando conexao
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-79","timestamp":"2016-10-26 12:09:59.340691","mac":"78:f8:82:fe:7d:bb"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-49","timestamp":"2016-10-26 12:09:40.843930","mac":"84:8e:df:0d:be:ad"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:09:41.555900","mac":"2a:5f:a8:39:ea:d3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-71","timestamp":"2016-10-26 12:10:07.926892","mac":"f8:95:c7:ae:70:20"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:10:18.008889","mac":"9c:99:a0:d0:b9:dd"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:08:20.600209","mac":"e0:9d:31:74:cc:70"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:09:42.418642","mac":"f0:c1:f1:b0:52:93"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:08:16.747272","mac":"64:bc:0c:3b:47:37"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:10:16.694041","mac":"f8:cf:c5:9b:91:c3"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-26 12:08:14.386002","mac":"0c:d2:92:d4:a9:04"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 12:10:00.371286","mac":"9c:99:a0:d0:b1:c9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-69","timestamp":"2016-10-26 12:09:45.576366","mac":"9c:d9:17:f0:70:d9"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-53","timestamp":"2016-10-26 12:10:02.985448","mac":"9c:99:a0:d1:8e:b0"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-65","timestamp":"2016-10-26 12:09:30.295448","mac":"72:e2:0a:14:90:06"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:09:47.636039","mac":"1c:af:05:c8:67:38"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:08:20.545274","mac":"5c:c9:d3:63:82:66"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:09:34.913864","mac":"24:f5:aa:4f:3e:45"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:09:36.000135","mac":"2a:ce:ff:8c:ab:95"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:09:53.196276","mac":"e0:9d:31:74:fb:d8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-63","timestamp":"2016-10-26 12:09:34.084856","mac":"88:79:7e:1e:91:2d"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:09:56.402201","mac":"10:d5:42:19:f7:ae"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:10:02.026482","mac":"54:a0:50:ef:b4:50"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-67","timestamp":"2016-10-26 12:09:39.510907","mac":"9c:99:a0:d1:77:69"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:09:56.418039","mac":"bc:85:56:fd:6e:99"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-77","timestamp":"2016-10-26 12:10:01.301889","mac":"f8:f1:b6:d6:11:9b"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-81","timestamp":"2016-10-26 12:08:16.723330","mac":"40:78:6a:28:99:55"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-45","timestamp":"2016-10-26 12:09:58.051350","mac":"00:0d:f0:a2:9f:11"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-61","timestamp":"2016-10-26 12:09:34.048242","mac":"2c:29:97:6a:d7:68"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-51","timestamp":"2016-10-26 12:09:38.147583","mac":"24:da:9b:cb:ce:e2"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-41","timestamp":"2016-10-26 12:09:49.374866","mac":"60:67:20:f4:b1:ec"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:09:59.141444","mac":"34:bb:26:b4:cb:a8"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:09:51.479698","mac":"94:01:c2:13:cf:47"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-55","timestamp":"2016-10-26 12:10:03.457992","mac":"c4:42:02:31:47:fa"}}...
+
+(200, 'OK')
+{"sts":true,"msg":"","posted":{"forcaSinal":"-75","timestamp":"2016-10-26 12:09:41.193965","mac":"f8:cf:c5:8e:9b:3c"}}...
+
+[<__main__.Pacote instance at 0xa8165d00>, <__main__.Pacote instance at 0xa7b245d0>, <__main__.Pacote instance at 0xa80969e0>, <__main__.Pacote instance at 0xa82f8ad0>, <__main__.Pacote instance at 0xa76209e0>, <__main__.Pacote instance at 0xa7f3d9b8>, <__main__.Pacote instance at 0xa7608a08>, <__main__.Pacote instance at 0xa7748e40>, <__main__.Pacote instance at 0xa784f2d8>, <__main__.Pacote instance at 0xa74ef5d0>, <__main__.Pacote instance at 0xa7a6d968>, <__main__.Pacote instance at 0xa7be0300>, <__main__.Pacote instance at 0xa7d7f878>, <__main__.Pacote instance at 0xa8227198>, <__main__.Pacote instance at 0xa8246f80>, <__main__.Pacote instance at 0xa7f17e40>, <__main__.Pacote instance at 0xa83d4440>, <__main__.Pacote instance at 0xa77f7a58>, <__main__.Pacote instance at 0xa7b01f30>, <__main__.Pacote instance at 0xa80fbf30>, <__main__.Pacote instance at 0xa81b6a08>, <__main__.Pacote instance at 0xa791ad00>, <__main__.Pacote instance at 0xa739b4b8>, <__main__.Pacote instance at 0xa79c1800>, <__main__.Pacote instance at 0xa76f8f80>, <__main__.Pacote instance at 0xa8267738>]
+Verificando conexao
+MAC: f8:95:c7:ae:70:20, TIMESTAMP: 2016-10-26 12:11:13.353748, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO f8:95:c7:ae:70:20/2016-10-26 12:11:13.353748/-73
+
+MAC: 84:10:0d:26:15:f3, TIMESTAMP: 2016-10-26 12:11:50.705793, FORCA SINAL: -51 
+SALVANDO NO ARQUIVO 84:10:0d:26:15:f3/2016-10-26 12:11:50.705793/-51
+
+MAC: 9c:99:a0:d0:b9:dd, TIMESTAMP: 2016-10-26 12:11:18.069359, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO 9c:99:a0:d0:b9:dd/2016-10-26 12:11:18.069359/-53
+
+MAC: e0:9d:31:74:cc:70, TIMESTAMP: 2016-10-26 12:10:20.622644, FORCA SINAL: -53 
+SALVANDO NO ARQUIVO e0:9d:31:74:cc:70/2016-10-26 12:10:20.622644/-53
+
+MAC: 84:10:0d:d0:3f:77, TIMESTAMP: 2016-10-26 12:12:12.515466, FORCA SINAL: -43 
+SALVANDO NO ARQUIVO 84:10:0d:d0:3f:77/2016-10-26 12:12:12.515466/-43
+
+MAC: 14:1a:a3:ca:66:63, TIMESTAMP: 2016-10-26 12:11:25.308013, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO 14:1a:a3:ca:66:63/2016-10-26 12:11:25.308013/-73
+
+MAC: 9c:99:a0:d0:b1:c9, TIMESTAMP: 2016-10-26 12:12:14.719377, FORCA SINAL: -67 
+SALVANDO NO ARQUIVO 9c:99:a0:d0:b1:c9/2016-10-26 12:12:14.719377/-67
+
+MAC: e0:9d:31:6a:60:59, TIMESTAMP: 2016-10-26 12:12:08.044636, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO e0:9d:31:6a:60:59/2016-10-26 12:12:08.044636/-73
+
+MAC: 18:89:5b:14:9e:aa, TIMESTAMP: 2016-10-26 12:12:03.292055, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 18:89:5b:14:9e:aa/2016-10-26 12:12:03.292055/-77
+
+MAC: 54:a0:50:ef:b4:50, TIMESTAMP: 2016-10-26 12:12:18.411335, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 54:a0:50:ef:b4:50/2016-10-26 12:12:18.411335/-59
+
+MAC: e0:9d:31:74:fb:d8, TIMESTAMP: 2016-10-26 12:11:53.183503, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO e0:9d:31:74:fb:d8/2016-10-26 12:11:53.183503/-55
+
+MAC: 9c:99:a0:d1:77:69, TIMESTAMP: 2016-10-26 12:11:42.769823, FORCA SINAL: -71 
+SALVANDO NO ARQUIVO 9c:99:a0:d1:77:69/2016-10-26 12:11:42.769823/-71
+
+MAC: 60:d9:c7:09:d7:08, TIMESTAMP: 2016-10-26 12:11:33.040102, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 60:d9:c7:09:d7:08/2016-10-26 12:11:33.040102/-77
+
+MAC: a4:70:d6:57:ee:c3, TIMESTAMP: 2016-10-26 12:10:23.181381, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO a4:70:d6:57:ee:c3/2016-10-26 12:10:23.181381/-77
+
+MAC: 40:78:6a:b8:16:e8, TIMESTAMP: 2016-10-26 12:10:23.600755, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO 40:78:6a:b8:16:e8/2016-10-26 12:10:23.600755/-59
+
+MAC: e0:91:53:61:66:44, TIMESTAMP: 2016-10-26 12:11:27.364013, FORCA SINAL: -59 
+SALVANDO NO ARQUIVO e0:91:53:61:66:44/2016-10-26 12:11:27.364013/-59
+
+MAC: 40:78:6a:28:99:55, TIMESTAMP: 2016-10-26 12:10:18.598049, FORCA SINAL: -77 
+SALVANDO NO ARQUIVO 40:78:6a:28:99:55/2016-10-26 12:10:18.598049/-77
+
+MAC: 00:0d:f0:a2:9f:11, TIMESTAMP: 2016-10-26 12:12:04.031919, FORCA SINAL: -43 
+SALVANDO NO ARQUIVO 00:0d:f0:a2:9f:11/2016-10-26 12:12:04.031919/-43
+
+MAC: 24:da:9b:cb:ce:e2, TIMESTAMP: 2016-10-26 12:11:51.988806, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO 24:da:9b:cb:ce:e2/2016-10-26 12:11:51.988806/-55
+
+MAC: 74:23:44:4b:ce:1e, TIMESTAMP: 2016-10-26 12:11:15.492909, FORCA SINAL: -57 
+SALVANDO NO ARQUIVO 74:23:44:4b:ce:1e/2016-10-26 12:11:15.492909/-57
+
+MAC: 54:a0:50:0a:7e:e4, TIMESTAMP: 2016-10-26 12:10:26.111013, FORCA SINAL: -49 
+SALVANDO NO ARQUIVO 54:a0:50:0a:7e:e4/2016-10-26 12:10:26.111013/-49
+
+MAC: 78:59:5e:7c:ea:b3, TIMESTAMP: 2016-10-26 12:12:00.198976, FORCA SINAL: -79 
+SALVANDO NO ARQUIVO 78:59:5e:7c:ea:b3/2016-10-26 12:12:00.198976/-79
+
+MAC: be:d2:a9:99:53:25, TIMESTAMP: 2016-10-26 12:12:26.031965, FORCA SINAL: -69 
+SALVANDO NO ARQUIVO be:d2:a9:99:53:25/2016-10-26 12:12:26.031965/-69
+
+MAC: 94:01:c2:13:cf:47, TIMESTAMP: 2016-10-26 12:11:56.302239, FORCA SINAL: -73 
+SALVANDO NO ARQUIVO 94:01:c2:13:cf:47/2016-10-26 12:11:56.302239/-73
+
+MAC: c4:42:02:31:47:fa, TIMESTAMP: 2016-10-26 12:12:09.923819, FORCA SINAL: -55 
+SALVANDO NO ARQUIVO c4:42:02:31:47:fa/2016-10-26 12:12:09.923819/-55
+
+MAC: 5c:e0:c5:6d:22:4d, TIMESTAMP: 2016-10-26 12:10:22.232159, FORCA SINAL: -57 
+SALVANDO NO ARQUIVO 5c:e0:c5:6d:22:4d/2016-10-26 12:10:22.232159/-57
+
+Traceback (most recent call last):
+  File "/home/pi/projetoRSI/capturaScapy.py", line 123, in <module>
+    sniff(prn = PacketHandler)
+  File "/usr/lib/python2.7/dist-packages/scapy/sendrecv.py", line 586, in sniff
+    r = prn(p)
+  File "/home/pi/projetoRSI/capturaScapy.py", line 102, in PacketHandler
+    sendData(captured.values())
+  File "/home/pi/projetoRSI/capturaScapy.py", line 61, in sendData
+    subprocess.call(["sudo", "/sbin/ifdown", "wlan0"])
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1231, in _execute_child
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory
+WARNING: No route found for IPv6 destination :: (no default route?)
+[<__main__.Pacote instance at 0xb600ee18>, <__main__.Pacote instance at 0xb60a25f8>, <__main__.Pacote instance at 0xb61faee0>, <__main__.Pacote instance at 0xb5febd28>, <__main__.Pacote instance at 0xb610ee90>]
+Verificando conexao
+Traceback (most recent call last):
+  File "/home/pi/projetoRSI/capturaScapy.py", line 123, in <module>
+    sniff(prn = PacketHandler)
+  File "/usr/lib/python2.7/dist-packages/scapy/sendrecv.py", line 586, in sniff
+    r = prn(p)
+  File "/home/pi/projetoRSI/capturaScapy.py", line 102, in PacketHandler
+    sendData(captured.values())
+  File "/home/pi/projetoRSI/capturaScapy.py", line 52, in sendData
+    if not internet_on():
+  File "/home/pi/projetoRSI/capturaScapy.py", line 41, in internet_on
+    response = urllib2.urlopen('http://216.58.192.142', timeout = 1)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1111, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 444, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 400, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+socket.timeout: timed out
