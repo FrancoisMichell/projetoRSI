@@ -4,7 +4,7 @@ import datetime,time
 import fcntl, socket, struct
 import requests
 import json
-#import gc
+import gc
 import urllib2
 import subprocess
 import time
@@ -52,18 +52,19 @@ def getHwAddr(ifname):
     return ':'.join(['%02x' % ord(char) for char in info[18:24]])
 
 def sendData(lista):
-	if not internet_on():
-		for i in lista:
+	#if not internet_on():
+	for i in lista:
+		print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
+		if not internet_on():
 			f = open("unsent.txt", "a")
 			print "SALVANDO NO ARQUIVO %s/%s/%s\n" % (str(i.getMac()), str(i.getHorario()), str(i.getForcaSinal()))
 			aux = "%s/%s/%s\n" % (str(i.getMac()), str(i.getHorario()), str(i.getForcaSinal()))
 			f.write(aux)
 			f.close()
-			#subprocess.call(["sudo", "/sbin/ifdown", "wlp2s0"])
-			#subprocess.call(["sudo", "/sbin/ifup",  "wlp2s0"])
-	else:
-		for i in lista:
-			print ("MAC: %s, TIMESTAMP: %s, FORCA SINAL: %s ") %(i.getMac(), i.getHorario(), i.getForcaSinal())
+			subprocess.call(["sudo", "/sbin/ifdown", "wlan0"])
+			subprocess.call(["sudo", "/sbin/ifup",  "wlan0"])
+		else:
+			#for i in lista:
 			r = requests.post("http://rsi2016.orgfree.com/", data={'mac': str(i.getMac()), 'timestamp': str(i.getHorario()), 'forcaSinal': str(i.getForcaSinal())})
 			print(r.status_code, r.reason)
 			print(r.text[:600] + '...')
@@ -74,6 +75,7 @@ def PacketHandler(pkt):
 	global captured
 	global start
 	global end
+	global localMac
 
 	if pkt.haslayer(Dot11):
 		if pkt.type == 0 and pkt.subtype == 4 :
@@ -83,9 +85,12 @@ def PacketHandler(pkt):
 			except:
 				rssi = -100
 
+			#if ( not captured.has_key(pkt.addr2)):
 			try:
 				pacote = Pacote(pkt.addr2,datetime.datetime.fromtimestamp(pkt.time),rssi)
 				captured[pkt.addr2] = pacote
+				#captured.append(pacote)
+				#capturedMac.append(pkt.addr2)
 			except:
 				pass
 
@@ -98,9 +103,10 @@ def PacketHandler(pkt):
 				print captured.values()
 				sendData(captured.values())
 				captured.clear()
-				#gc.collect()
+				gc.collect()
+				#capturedMac = [localMac]
 
-#localMac = getHwAddr('wlp2s0')
+localMac = getHwAddr('wlp2s0')
 
 #Time of begginning capture
 start = time.time()
