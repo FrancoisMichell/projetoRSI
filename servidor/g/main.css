@@ -1,0 +1,71 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+#sidebar {
+	padding: 15px;
+	width: 250px;
+	height: 100%;
+	position: fixed;
+	left: 0px;
+	background-color: #2aaeea;
+	text-align: center;
+}
+
+#sidebar #center { top: 50%; position: relative; }
+
+#sidebar p {
+	margin: 5px;
+}
+
+#sidebar #title {
+	font-size: 17px;
+	font-weight: bold;
+	border-bottom: 1px solid #2A5C73;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+#sidebar #pname {
+	font-size: 15px;
+	font-weight: bold;
+	margin:50px 0px;
+}
+
+#sidebar #students {
+	border: 1px solid #2A5C73;
+	padding: 15px;
+	list-style: none;
+}
+
+#content {
+	position: relative;
+	margin-left: 300px;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.wrapchart {
+	position: relative;	
+	width: 400px;
+	display: inline-block;
+	margin: 35px 25px;
+	vertical-align: middle;
+}
+
+.wrapchart h2 {
+	margin-bottom: 15px;
+}
+
+button {
+	border: 0px;
+	background-color: gray;
+	color: white;
+	padding:10px;
+	font-size: 15px;
+}
+
+button.selected {
+	background-color: rgb(75, 192, 192);
+}
